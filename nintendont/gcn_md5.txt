@@ -1,0 +1,1446 @@
+765fcce09699b8632119402ab23d8e89|GENE69|00|0|007: Everything or Nothing
+978b18050fac6b4bd47fab6069704bfa|GLZE69|00|0|007: From Russia With Love
+a824f5a7a553b7598592c6c129378262|GO7E69|00|0|007: NightFire
+4e51d0bec2705a23b61284e4bc338ff9|GU2F78|00|1|2 Games in 1: The Incredibles / Finding Nemo
+91ebe9828eb044a2e52242acb7f8ceef|GU2D78|00|1|2 Games in 1: The Incredibles / Finding Nemo
+2aff07d9d37a3acd0e4d9d1021f944a1|GU2F78|01|2|2 Games in 1: The Incredibles / Finding Nemo
+c1ae965be09edfe7733351da3ac5f02b|GU2D78|00|2|2 Games in 1: The Incredibles / Finding Nemo
+0057239560246895369d37efd0aa2185|GU4Y78|00|2|2 Games in 1: The SpongeBob SquarePants Movie / Battle for Bikini Bottom
+249f3c69db9324e92a3faf66c3c2ac3d|GU4Y78|00|1|2 Games in 1: The SpongeBob SquarePants Movie / Battle for Bikini Bottom
+bbd3c0d5b10ae4fd96d378efb1bcb09e|GU3D78|00|2|2 Games in 1: The SpongeBob SquarePants Movie / Tak 2: The Staff of Dreams
+33012f2d1c29c684c17cc79f3177577d|GU3D78|00|1|2 Games in 1: The SpongeBob SquarePants Movie / Tak 2: The Staff of Dreams
+dfbf9c9a7985723180816ac49495f55f|GE4E7D|00|0|4x4 Evo 2
+eb0c047c08553c724dfee090a259794f|GWEP8P|00|0|18 Wheeler American Pro Trucker
+0581d5e7a897de3b1c999e823b31287d|GWEE51|00|0|18 Wheeler: American Pro Trucker
+dd2a3befbcb26481ba5edd203e470174|GTEE01|00|0|1080° Avalanche
+3a95a080a8359f7026c3aedc00b99f53|GTEP01|00|0|1080° Avalanche
+52124ca10af6550fcfda836680847d62|GFSD69|00|0|2002 FIFA World Cup
+e53b25f12dcdea0b3633e77b1bed24b2|GFIE69|00|0|2002 FIFA World Cup
+164d1527b93dad57252c61fa77f17c27|G6FE69|00|0|2006 FIFA World Cup
+2e32631fa46330de206f1b26c240bcc4|G6FF69|00|0|2006 FIFA World Cup
+5c82c77c71dad32a0015f4a7e8a1858d|G6FD69|00|0|2006 FIFA World Cup
+facea37db16c2693176b7b55998c435f|G6FP69|00|0|2006 FIFA World Cup
+e8a77e4c9c3a935c564d2a0399d34f5a|GWGP4F|00|0|Ace Golf
+e7b3463eb2da28c476fc075192fa44a8|GILP51|00|0|Aggressive Inline
+9a09306a54395805bb92876fc6862be0|GILE51|00|0|Aggressive Inline
+4f055ff8e9efac089ca774a54d76ca5b|GAHEGG|00|0|Alien Hominid
+bc4b7d305ca3416348706d21d0006666|GA2E51|00|0|All-Star Baseball 2002
+f45fb0469da1261c7b23e5ed0b43f1df|GA3E51|00|0|All-Star Baseball 2003
+befeee719d51a63b88afcfede9e5d9cc|GA4E51|00|0|All-Star Baseball 2004
+46d3d0acdb0f176626428db3d939f1cb|GKAE8P|00|0|Amazing Island
+4dbc387a9e22db502be5792625d7d070|GAPE52|00|0|American Chopper 2 - Full Throttle
+c5a4d1535655ddbc84a95c305fecda55|GAFP01|00|0|Animal Crossing
+7853049ccd0c1e2bffeb5b12393a5409|GAFE01|00|0|Animal Crossing
+d59b1c438b21970446102a19f1e0e861|GAFU01|00|0|Animal Crossing
+6bfe84e44da33fb9c329ea31a2983ec9|GAFJ01|00|0|Animal Forest +
+a3de47f3c1a2c373fa3e94f62acd489c|GANE7U|00|0|Animaniacs: The Great Edgar Hunt
+fadea1a87a38bbfabbe0ad0333de2a6d|GANP7U|00|0|Animaniacs: The Great Edgar Hunt
+552f5dd38ce5fe189f690be653473048|GAQE6S|00|0|Aquaman: Battle of Atlantis
+0bbaacfcdd866b0eaef401e03f77a11a|GAME5H|00|0|Army Men Sarges War
+1502e3b63cb7a71528c9b56244fff21c|GACE5H|00|0|Army Men: Air Combat The Elite Missions
+a6f0efcd45f9f1350ec6ec363e6bb9e9|GARE5H|00|0|Army Men: RTS
+63cef5f1c7ffc3b3d311e71bfc717835|GAGP70|00|0|Asterix & Obelix XXL
+4712e192117bee2d53fc8ec7577f0a38|GATE51|00|0|ATV Quad Power Racing 2
+8a3e35f57d32be27512ceff224caba80|GATP51|00|0|ATV Quad Power Racing 2
+15c01fd233fb32e0ccf147c4214f9699|GAUE08|00|0|Auto Modellista
+ec27a03b20e85f56b11581beb692172d|GAUJ08|00|0|Auto Modellista: U.S.-tuned
+204aed24a403072e2470b473099b18c7|GAVE78|00|0|Avatar The Last Airbender
+ee9a820d440b0317144dc36ee86ac4fa|GBKE70|00|0|Backyard Baseball
+6a6362b28f7e9ec6dea652c34d69f2c6|GBFE70|00|0|Backyard Football
+831f0c05a4c42c89147bc8ffc5b7a66d|GA7E70|00|0|Backyard Sports Baseball 2007
+1e9b87ccb012ecc4eb1cbd731b11f8b7|GOBP7N|00|0|Bad Boys II
+9e04a779bcf190e3f4cd98cf5fcb5f06|GOBE4Z|00|0|Bad Boys: Miami Takedown
+273ae0e6d23ee22e54f624ed5a34c31d|GDED71|00|0|Baldur's Gate Dark Alliance
+113ddfb6d582b99677df2d7e79f2c576|GDEF71|00|0|Baldur's Gate: Dark Alliance
+3b428c5f5e7f60d1dac28a792d5c0367|GDEE71|00|0|Baldur's Gate: Dark Alliance
+f5cbb6aeed3d53c803445cae124bf165|GYAE78|00|0|Barnyard
+29365851deaad16e865a351c3444ea39|GKBEAF|00|2|Baten Kaitos Eternal Wings and the Lost Ocean
+59d99ac5058174bb5bdfaf71a0c1347b|GKBEAF|00|1|Baten Kaitos Eternal Wings and the Lost Ocean
+7f5361396b6507a3c12039e4c00c19ed|GK4J01|00|1|Baten Kaitos II: Hajimari no Tsubasa to Kamigami no Shishi
+f6be39c1dfbb467f32becfe6630b60b2|GK4J01|00|2|Baten Kaitos II: Hajimari no Tsubasa to Kamigami no Shishi
+67a443e8e6c8e50de87f45433ebfbddc|GK4E01|00|1|Baten Kaitos Origins
+89dccbcfa40699cfdb5cd9506f1123c4|GK4E01|00|2|Baten Kaitos Origins
+bbaa18906e55acbf8d1016459653e25e|GKBPAF|00|1|Baten Kaitos: Eternal Wings and the Lost Ocean
+aed7dcac956ce8f677545f9a82c1afb0|GKBPAF|00|2|Baten Kaitos: Eternal Wings and the Lost Ocean
+fef7c8581860c4b86b60e9839f7fd24e|GKBJAF|00|2|Baten Kaitos: Owaranai Tsubasa to Ushinawareta Umi
+8059457a72c98b010de282ef2955e7f3|GKBJAF|00|1|Baten Kaitos: Owaranai Tsubasa to Ushinawareta Umi
+39307e2374e1c6606a7d2e023d1c7e96|GINE69|00|0|Batman Begins
+78508a608ebf3aa8bd5ee69f7c3335b0|GINX69|00|0|Batman Begins
+ea8289eeb44f2eef2b8c1b9e2158523e|GUZP41|00|0|Batman Rise of Sin Tzu
+1be277a1f13bd36b06420b645812d522|GBVP41|00|0|Batman Vengeance
+70a7d63e5eaefbcccbd9f95ea588b983|GBME7F|00|0|Batman: Dark Tomorrow
+6c6db2130345fe1f02b7f5a05a152a5a|GBMP7F|00|0|Batman: Dark Tomorrow
+a1134226646c60912d2e8b553a961ea5|GUZE41|00|0|Batman: Rise of Sin Tzu
+f54fd223ec22def35fe06a0ed4a7cad9|GBVE41|00|0|Batman: Vengeance
+e02a6a1b3700c3c551571f2f286d476d|G8WE01|00|0|Battalion Wars
+fb021b57319ae96b77d01787acedb640|G8WP01|00|0|Battalion Wars
+75591d7514b72276a32f4a0faa424f32|GBSP8P|00|0|Beach Spikers: Virtua Beach Volleyball
+c18f2fae7fc17adfea6656213c76e097|GBSE8P|00|0|Beach Spikers: Virtua Beach Volleyball
+400b37a71b352c6be8a3e6f6c16e447d|GBSJ8P|01|0|Beach Spikers: Virtua Beach Volleyball
+8f658496ffaca32a7113e4b5db43102d|GBTE70|00|0|Beyblade VForce - Super Tournament Battle
+5b3df8a487cf85f51ac1292fa0e992fe|GBTP70|00|0|Beyblade VForce - Super Tournament Battle
+2142ae6ee5f2ab49583b193d521aec07|GGEE41|00|0|Beyond Good & Evil
+a3b541f8b7a4f222b02a2316bd8018dc|GGEX41|00|0|Beyond Good And Evil
+6831e6539172b69d14f27fc6f11f9516|GMRE70|00|0|Big Air Freestyle
+ce0b08bf8a0f0a820ab8c86d67460f46|GMRP70|00|0|Big Air Freestyle
+43130d87fe3631ec252fa91da9c26313|GT8E78|00|0|Big Mutha Truckers
+c2ff6c9e8e5a3f06e874fca1d7dcf4a7|GT8P78|00|0|Big Mutha Truckers
+bc8af5c06a3bff09351f7cb16724ffce|GEZE8P|00|0|Billy Hatcher and the Giant Egg
+8602e48fdec20c43857f7ae6bcc93431|GHAJ08|00|0|Biohazard 2
+245a4269337f3a290abf57a6ff156f7d|GLEJ08|00|0|BioHazard 3: Last Escape
+499cbec401c8d80d35b521b215e8d039|G4BJ08|00|2|Biohazard 4
+6b57d0ae0b872a50457276fb84d58cf2|G4BJ08|00|1|Biohazard 4
+12e934a615a20dcaa07b7b2d689973ed|GCDJ08|00|2|Biohazard Code: Veronica Complete
+6c988307da488343cf4f3a39479f351b|GCDJ08|00|1|Biohazard Code: Veronica Complete
+c899ff60d41eaa5acc3e79d95264ae19|DBZJ08|00|0|Biohazard Zero: Trial Edition
+bb7bf25a744ebebacbe25b2877b11c21|GVOP69|00|0|Bionicle
+07c9f2080508231eb8b3a4a37aec7034|GVOE69|00|0|Bionicle
+86d7098e6710963aba2cd80ef3ee307f|GVHE4F|01|0|Bionicle Heroes
+7dfacd44a49258043bd7a30359f3986c|G2BE5G|00|0|Black & Bruised
+ca5c26bce0577e4a485088fe5879c557|G2BP7D|00|0|Black & Bruised
+7e5526fad8e1f5718eafefd8761ab925|GIGJ8P|00|0|Bleach GC: Tasogare Ni Mamieru Shinigami
+9b3c3ffa235d1f8bcd7602ebfeefc87b|GO2F4F|00|0|Blood Omen 2: The Legacy of Kain Series
+67a82b0bc5f12909af976f7f52e8c536|GO2P4F|00|0|Blood Omen 2: The Legacy of Kain Series
+e851b2aec4de56e3d2496b5bfbf6a511|GO2D4F|00|0|Blood Omen 2: The Legacy of Kain Series
+1628c6a7964dca68d42bcac65a9ef446|GO2E4F|00|0|Blood Omen 2: The Legacy of Kain Series
+cb842b4da4272d293134dc14f845d8e2|GBDS7D|00|0|BloodRayne
+df2acbb111c08596b51a335fdbca4995|GBDE5G|00|0|BloodRayne
+cd526093d9a8d77230aea8f49b1f25b3|GBLE52|00|0|Bloody Roar: Primal Fury
+c7704cf99e822ee61c954388211cc94d|GBLP52|00|0|Bloody Roar: Primal Fury
+a1e080eff097394e0ecf304f2d6dfff9|GWOE5G|00|0|Blowout
+c3fe071d90154f78558b8beccd444d64|GB3E51|00|0|BMX XXX
+6e055e37ba55299a33671ff85f4d6876|GB3P51|00|0|BMX XXX
+ec608eb5cbf9b5ba72756c929bee04b6|GBGE5G|00|0|Bomberman Generation
+5e85f53136d139205c3b3da2d16b7b15|GBGP7D|00|0|Bomberman Generation
+af9d21fd2b0331461db9c651c003e043|GJBJ18|00|0|Bomberman Jetters
+aa77fb6553efe3866df8dd3f83a6a1d3|GJBE18|00|0|Bomberman Jetters
+0ef35b3c0328e6833dc69e3b0a27749d|GVDP78|00|0|Bratz Forever Diamondz
+fb8238ac0b6574bf30d0c3346269151a|GVDE78|00|0|Bratz Forever Diamondz
+2f5272bb431910c4dad7933c01053b9f|GR6P78|00|0|Bratz: Rock Angelz
+1fcbdd6ad640ec8709dd6a19088984c5|GR6D78|00|0|Bratz: Rock Angelz
+ff324584f196b5a2162137ca74efea4b|GR6F78|00|0|Bratz: Rock Angelz
+e1f4cc3696bcd96d682134bec9510d9b|GR6E78|00|0|Bratz: Rock Angelz
+266fa8f542a03834ec5da69b54a65757|GCQD7D|00|0|Buffy The Vampire Slayer Chaos Bleeds
+9e64005de134b3dc0d9a759edaf3e440|GCQF7D|00|0|Buffy The Vampire Slayer Chaos Bleeds
+20968e92927def53807faa3c0a4403a6|GCQE7D|00|0|Buffy the Vampire Slayer: Chaos Bleeds
+939360f9a439d6e66d378c97bae206af|GBOP51|00|0|Burnout
+e2b9cf9780a740a504ab35d404c62666|GBOE51|00|0|Burnout
+1c7cf73f219cb287f9f7cc3ce5f6b261|GB4P51|00|0|Burnout 2: Point of Impact
+81d34a3eb120dbe3aa534d0c40af0aaf|GB4E51|00|0|Burnout 2: Point of Impact
+8174224176d43215b856d5282193fdc5|G3SE41|00|0|Bust-A-Move 3000
+8660dc7a418dcaf5334009524e290a6c|GG5E52|00|0|Cabela's Big Game Hunter 2005
+ae8cb4de019117b8dc760b87c5de92d4|GVKE52|00|0|Cabela's Dangerous Hunts 2
+f0a7cff7fe5cbfa42b8af2a0f1f88e00|GOAE52|00|0|Cabela's Outdoor Adventures
+39961252d6e13cf924b8d8e065bbc110|GQCF52|00|0|Call of Duty 2: Big Red One
+27371ff3f86f3a64d436f1c27d3ebd44|GQCP52|00|0|Call of Duty 2: Big Red One
+3b42f9f0a3c78a514d843c8933ba577c|GQCD52|00|0|Call of Duty 2: Big Red One
+fec2224af6f99fa72ed4126dca16c3c5|GQCS52|00|0|Call of Duty 2: Big Red One
+13422f77d3e88287471c8935127823ba|GQCE52|00|0|Call of Duty 2: Big Red One
+1a7e5a60778b82e27a9a7ef6be0d2b74|GCOF52|00|0|Call of Duty: Finest Hour
+6261b4c3f2c77a215f4c0a5994ccf495|GCOP52|00|0|Call of Duty: Finest Hour
+cbf5ba6030dd979517bf78e93ad596eb|GCOE52|00|0|Call of Duty: Finest Hour
+5e985879323371fb6613824c7de14158|GCOD52|00|0|Call of Duty: Finest Hour
+0f153f7d7b97c9df1d4d55a9f70cfde6|GEOE08|00|0|Capcom vs. SNK 2 EO
+b67bf43d02ed42408fd35091a9306f7b|GKTJA4|01|0|Captain Tsubasa: Ougon Sedai no Chousen
+7d1dd64efed21a2f9a8d0246543ac32e|G3DX6L|00|0|Carmen Sandiego: The Secret of the Stolen Drums
+bfa572af12c904844d39cb89564a1d26|G3DE6L|00|0|Carmen Sandiego: The Secret of the Stolen Drums
+b3eeb8a8eb72758ab7667c2d272ca0b0|GKJJ78|00|0|Cars
+ae41fe9270967d6928793899740e6d43|GKJE78|00|0|Cars
+b9972032a9ca8e30edda795c8222f913|GKJH78|00|0|Cars
+55fbedeeec6e6810e90467c1b56cd48c|GKJD78|00|0|Cars
+ead36c18846537c52d89202809423fb5|GKJS78|00|0|Cars
+b6ad4a7aaaa2e133ecbbd2598f4d4b21|GKJF78|00|0|Cars
+8766cf629f34ad44e43cbb91d06dd11e|GCPE6S|00|0|Casper: Spirit Dimensions
+550d6f9e3ce2de34a283f77a1d32fbdb|GCPP6S|00|0|Casper: Spirit Dimensions
+35a7d1a35dfbcde290597b593ebd42b8|GCZE69|00|0|Catwoman
+f3562f632a43a99eee77d7ef3f0854ce|GCZP69|00|0|Catwoman
+3b7d5f5d80b770152ee2ecdb16329003|GCLP69|00|0|Cel Damage
+65a4f5f72b111380ef56f94b106cef88|GCLE69|00|0|Cel Damage
+4d1ef4fa47842ec159ffd37b956e0172|GKFEGG|00|0|Chaos Field
+8c77faa2ceac8fd9b4c662c1ff1800de|GKFJ8P|02|0|Chaos Field Expanded
+de69170bc54027451324c173dacae490|G4CE54|00|0|Charlie and the Chocolate Factory
+79354c3962e4d5d76e42ff8163ccf0ed|GCGP41|00|0|Charlie's Angels
+e1983338ce204342f602b2e5dc4c7978|GCGE41|00|0|Charlie's Angels
+fb0123c05fceb74892b16acc9387e894|GGTE01|00|0|Chibi-Robo!
+3491a233b72d2e5ebc1fa34d37ce84cf|GGTP01|00|0|Chibi-Robo!
+01dd787ce08884591bcba4aa8f45fd86|GHCD4Q|00|0|Chicken Little
+c405accb2cb596da872fad9541909fa8|GHCE4Q|00|0|Chicken Little
+172a02e376a37d326da1720662212bce|GHCP4Q|00|0|Chicken Little
+96fb149472e7d15866ed93fc2f2ecc3e|GHCF4Q|00|0|Chicken Little
+be7305194ab6e833288ab58d9c06f35b|GRQE41|00|0|City Racer
+0a8b8bacff83dddaec1f76e11e73fbaf|GOUPNK|00|0|Cocoto Funfair
+7b8afebbbd9f50af5dd5f4be87dc426a|GKZP9G|00|0|Codename Kids Next Door - Operation V.I.D.E.O.G.A.M.E
+8366ba6c0f0ef3fe30617159c21f5939|GKZD9G|00|0|Codename Kids Next Door - Operation V.I.D.E.O.G.A.M.E
+9fc82976f0071f81fa0af5d4e6423add|GKZE9G|00|0|Codename Kids Next Door - Operation V.I.D.E.O.G.A.M.E
+16931c7f188899b234158eb3b17ecbd8|GCFE9G|00|0|Conflict: Desert Storm
+7a52c85861bed0376d48bb8156a0ec2c|GC2E9G|00|0|Conflict: Desert Storm II: Back to Baghdad
+e334ce5c62b0809d965cd6db2c17f40f|GCBJA4|00|0|Crash Bandicoot 4: Sakuretsu! Majin Power
+40c3d26290293ee0b37a5b2edce01b08|GCBP7D|00|0|Crash Bandicoot: The Wrath of Cortex
+c8236b85c85656fa5bff93cf19f6e586|GCBE7D|00|0|Crash Bandicoot: The Wrath of Cortex
+e6495b2dc4bca6170d20892b694deb6a|GCNP7D|00|0|Crash Nitro Kart
+fed9263fe9f69b66b12b969a84eb3a6d|GCNE7D|00|0|Crash Nitro Kart
+10932189ae0f98a02e37086b9961589f|G9RE7D|00|0|Crash Tag Team Racing
+67aec8ec038d1f765a39f168c67ebec2|G9RF7D|00|0|Crash Tag Team Racing
+4d9fc7779be8376688476bac503ef3e0|GCTP51|00|0|Crazy Taxi
+e903be751aacf4a237e33f2e5dd89822|GCTE51|00|0|Crazy Taxi
+756327c68651c4f25689bf58dafdca2d|GCVEEB|00|0|Cubivore: Survival of the Fittest
+0d97340fb612c1a87a3218f1dea5fca4|GCAE5H|00|0|Cubix: Robots for Everyone Showdown
+ff721acc78cf9f3c0328f20d8c293257|G3JEAF|00|0|Curious George
+546e5108173bceb4d5c8ca27b3fcfc96|GXCE01|00|0|Custom Robo
+378be81bb6c38febd847fc4b7f7dc36f|GALJ01|00|0|Dairantou Smash Brothers DX
+986487c59e3ad40870135aabe90f1ac8|DALJ01|00|0|Dairantou Smash Brothers DX (Demo)
+dc71d75741cf8761bfb95160e07e52d5|GPDP51|00|0|Dakar 2: The World's Ultimate Rally
+b603f891b9601b1e09e359919595a679|GPDE51|00|0|Dakar 2: The World's Ultimate Rally
+7fb810eac86abf488d4ddcd486626433|GWZJ01|01|0|Dance Dance Revolution: Mario Mix
+7c862ab7fea3687c6dd0a269a8866d86|GWZE01|01|0|Dance Dance Revolution: Mario Mix
+7b3cab3d2e31210837946ee35466b245|GWZP01|00|0|Dancing Stage Mario Mix
+1886c920d82686e6d66ded8c121efccc|GDSP78|00|0|Dark Summit
+321828fcbbcdbc6dfe498dab7a86f120|GDSE78|00|0|Dark Summit
+1dc19408dda627f102e57c3e93c330dc|GDQE7L|00|0|Darkened Skye
+c3c12a7976f8fcf510da8f412e98405a|GBXP51|00|0|Dave Mirra Freestyle BMX 2
+2f1097d0fccee88157e80b75c74faf27|GBXE51|00|0|Dave Mirra Freestyle BMX 2
+3138124f7886e8e192e50e2ab99a1ba8|GDREAF|00|0|Dead to Rights
+8c9156214939e47c13030ecfe16ebf4a|GDTE69|00|0|Def Jam Vendetta
+17a790fdf771837ab2aec44ec91a5c8b|GNWP69|00|0|Def Jam: Fight For NY
+2b10be2a0b71d529ada5c7e2f41ffc1e|GNWE69|00|0|Def Jam: Fight For NY
+ba494301ef873157b61a1299cf6328be|GDFE5D|00|0|Defender
+e41acd161ed9206e4c16ea1bfeef52ae|GDIE7D|00|0|Die Hard: Vendetta
+7b4935263105330cec6f85ebd42cc493|GDIY7D|00|0|Die Hard: Vendetta
+3220755e6471a3b8ac8b2d4635f968b4|GD6EB2|00|0|Digimon Rumble Arena 2
+66dbc7fe3e36e80eb960de61f0003886|GD6P70|00|0|Digimon Rumble Arena 2
+65c7b4887d21efd526a69ff060f631b5|GDJEB2|00|0|Digimon World 4
+d3b8c6582b460581feee3e2f21cc09ef|GD4E6S|00|0|Dinotopia - The Sunstone Odyssey
+a66e632cea696e5489b724e84d6aec13|GEXP52|00|0|Disney Extreme Skate Adventure
+1d4b3ec22f4876847a11ff8387fac5f5|GEXY52|00|0|Disney Extreme Skate Adventure
+7f227d0969b5f5763464a249d6f5029b|GDLEA4|00|0|Disney Sports Basketball
+9558fba98e2e8a7abe319f47bc8b84fe|GDWEA4|00|0|Disney Sports Football
+9bcc83e783d0e5d0ef35bfe3999c5a6a|GDXJA4|00|0|Disney Sports Skateboarding
+ffdbbb0be4a664d18973f3af9cfa5302|GDXEA4|00|0|Disney Sports Skateboarding
+4ca73f7a1c22caf78778f14ba0792bbd|GDXPA4|00|0|Disney Sports Skateboarding
+f4fc53df07e411ec7ad0b8a8fa972949|GDKEA4|00|0|Disney Sports Soccer
+6090bd95f4e9653b5c458947db93dc00|GDLPA4|00|0|Disney Sports: Basketball
+d793d8762abd7969c59c74d7fce0b05b|GDKPA4|00|0|Disney Sports: Football
+7380bd8887a4338cedc76f2f53d90aa8|GDOP41|00|0|Disney's Donald Duck PK
+f6b779f5a7757f9a5d3258a832545b5a|GDDE41|00|0|Disney's Donald Duck: Goin' Quackers
+ae62daf163809c1a58a153298ffa56b4|GDDP41|00|0|Disney's Donald Duck: Qu@ck Att@ck
+cbf0b925d7ef55098574f861627f5324|GEXE52|00|0|Disney's Extreme Skate Adventure
+810f4a0f4c2fbde06a5d3355edcf0732|GEXX52|00|0|Disney's Extreme Skate Adventure
+38c74e0587c845548ecd2269c1d8c232|GHVE08|00|0|Disney's Hide & Sneak
+ff7f7ba0b516a65c618bc6f136227d72|GHVP08|00|0|Disney's Hide & Sneak
+baf1ffe1b585fa447dce54444e463fc4|GDME01|00|0|Disney's Magical Mirror Starring Mickey Mouse
+ab2ac45f906726ff11509556452f38ee|GDMP01|00|0|Disney's Magical Mirror Starring Mickey Mouse
+ff155ea04cdf72d31bd0e33fbd264ba2|GAAJ08|00|0|Disney's Mickey & Minnie Trick & Chase
+3c6301f69e37f46c9603f1b4541bffb2|GDMJ01|01|0|Disney's Mickey Mouse no Fushigi na Kagami
+0b65436787bf060dc8e0333d017ee892|GMTE69|00|0|Disney's Party
+780048192af3fe8368e9ce9f5ee197e7|GMTP69|00|0|Disney's Party
+f0ffa80667c71ecfdc6d181bc49de7bc|GPKE41|00|0|Disney's PK Out of the Shadows
+c73781d0db509a8c91c034c8d843d6b2|GYBJ01|00|0|Donkey Kong Jungle Beat
+ba18c0991c45cb54fa38e2e5916fca60|GYBE01|00|0|Donkey Kong Jungle Beat
+c1cdfec5befcbf7b08302b363b8a442a|GYBP01|00|0|Donkey Kong Jungle Beat
+e5b73629e885d5bd3391f2fba3cc751c|GKGE01|00|0|Donkey Konga
+320687e475a183692c2e24b7de43efba|GKGJ01|00|0|Donkey Konga
+7d302c00610d347b56cd4ac7d0a03c48|GKGP01|00|0|Donkey Konga
+0a7615a21f204628ad30c6b6f9a7242d|GY2P01|00|0|Donkey Konga 2
+164e01612eb8d3adb45fbb52aec359ee|GY2J01|00|0|Donkey Konga 2
+583506969ab42c376309946ebc3f1e40|GY2E01|00|0|Donkey Konga 2
+815684c4b43466b7db847b633d37ae96|GY3J01|00|0|Donkey Konga 3
+b7c6d0fff5f5727a340fdf671a8cafc5|GQLE9G|00|0|Dora the Explorer: Journey to the Purple Planet
+749b736efd4b7a6c495ae543c371fb65|GKDP01|00|0|Doshin the Giant
+67e9c6d58829c7c737766fac3bbfbce2|GAEJ01|01|0|Doubutu no Mori e+
+4b83818218e96dfc83c42d1d329f613c|GMUE5D|00|0|Dr. Muto
+4acffb854772fe3d6919519f4de4c9c9|GD7E70|00|0|Dragon Ball Z - Budokai
+e71d45b8177be0ec49af721b5f1c17ce|GD7P70|00|0|Dragon Ball Z - Budokai
+947d9ca0279abbe7ece8377b6e6aa4f6|GZ3P70|00|0|Dragon Ball Z: Budokai 2
+7aec3a61b1324cf841044c683e9d40ec|GZ3E70|00|0|Dragon Ball Z: Budokai 2
+2e92b08b0db17a913de953d9c4a44cd9|GZEE70|00|0|Dragon Ball Z: Sagas
+bb19ff01b83cc83084d2485234df1750|GDGE7H|00|0|Dragon's Lair 3D: Return to the Lair
+0b28a56610c882ae5240632e8e1fd03f|GKWJ18|00|0|DreamMix TV World Fighters
+9ac406c4292ed67dbeee284acb1be532|GDVE6L|00|0|Driven
+41a13138f87af8d1ff3a943a4f724e6f|GD9E69|00|0|Drome Racers
+31256eb96d1caa1f28e7e4579b4f4ce9|GE9E5D|00|0|Ed, Edd n Eddy: The Mis-Edventures
+b86592a531e6ac8062a98d2ce069a415|GEME7F|00|0|Egg Mania: Eggstreme Madness
+9d1aa1629b83f9791bbf893662bc3250|GMXP70|00|2|Enter The Matrix
+bf4942c4463bcf96c41038662608eb77|GMXE70|00|1|Enter The Matrix
+f9f269c53b1f0c60d970667d4209acd9|GMXE70|00|2|Enter The Matrix
+632b85c203fdbf2862eafe9493a4c868|GMXP70|00|1|Enter The Matrix
+e04c90b9debf16a07e8c7b026cf0b3ba|GWSPA4|00|0|ESPN International Winter Sports
+165bc0683c3bb5044016f149dc17b23a|GWSEA4|00|0|ESPN International Winter Sports 2002
+9b09ba9faf2739e0cb6a0b6d6e2ab135|GMLEA4|00|0|ESPN MLS Extra Time 2002
+ae427c8f680f7c9dbb2a9b17c7583de6|GEDJ01|00|0|Eternal Darkness: Manekareta 13-nin
+118e4cbf529719528f15d065130511e2|GEDE01|00|0|Eternal Darkness: Sanity's Requiem
+c784fa979dec9f2c38259b878138fda5|GEDP01|00|0|Eternal Darkness: Sanity's Requiem
+6b955e15e65a77c77a4065fcb0ebeb7f|GESEA4|00|0|Evolution Skateboarding
+0f613a77d9132ab61fd017a39a5649e6|GEBEA4|00|0|Evolution Snowboarding
+052f49f094488d2002e4a5df1067435d|GEWE41|00|0|Evolution Worlds
+6aa131e245ca47e29cf54505902ccdcd|GEWP41|00|0|Evolution Worlds
+aa748e8e0a8c91bb3635889d95f3243e|GF2E69|00|0|F1 2002
+81293462cf48c6a482c33e25c4097ac0|GFZE01|00|0|F-Zero GX
+e1081d2e1701de9dd5114388e361dbdf|GFZP01|00|0|F-Zero GX
+38249b82be648aaf08b42909064a957d|GFZJ01|00|0|F-Zero GX
+7458fabc0e0e4cbf0f185d3185378038|GF4P52|00|0|Fantastic 4
+eea5a284c44699068824b60882768c5e|GF4E52|00|0|Fantastic 4
+d4e1d0da02324fc820105017ce652f5f|GF4F52|00|0|Fantastic Four
+9f4b8772dac8c75d73436e143342309b|GF6H69|00|0|FIFA 06
+7845c034bd33a9742ab219f7aa4eed2b|GF6P69|00|0|FIFA 06
+3ce0b2aef4c19378de797c3b9d710b47|GF6F69|00|0|FIFA 06
+e67e8ed42337792914dc7eb9aed21a17|GF6S69|00|0|FIFA 06
+0d079f1d95cf1f426a4efb15a921947d|GF6D69|00|0|FIFA 06
+7bd6a22f4478e3ba4b0df76520fa1450|G4FD69|00|0|FIFA 07
+92ecbc7822ea771d09b1885e22c7252e|G4FP69|00|0|FIFA 07
+85265a395bbdf4481890232d9cd7676f|GFAS69|00|0|FIFA Football 2003
+e8cf77c31e4f89fb5ef64fb533934696|GFAP69|00|0|FIFA Football 2003
+b79e4b8d47749d11619eea013d565734|GFAI69|00|0|FIFA Football 2003
+f7c3e01f734064c385d8417b4032335e|GXFI69|00|0|FIFA Football 2004
+e88dd237b7bf73efbb3c66a444c51a6b|GXFD69|00|0|FIFA Football 2004
+158b239f3499b40a2eadb32dc0a04f4b|GXFF69|00|0|FIFA Football 2004
+e3aadcccd20a4e19acbdb3e1ec689b94|GXFP69|00|0|FIFA Football 2004
+588527c276efb3a3ae7b43b646a81790|GXFS69|00|0|FIFA Football 2004
+964a4a8e1246f358aa419d02e4f3e188|GF5H69|00|0|FIFA Football 2005
+66f8155426da7a5a633a8f06c228fa00|GF5S69|00|0|FIFA Football 2005
+d994fe281e98f6d184b6695757248822|GF5D69|00|0|FIFA Football 2005
+c872140176671dae66b3221cd58c718b|GF5I69|00|0|FIFA Football 2005
+d77d6b3180ee39072ecc9b5505b6db3d|GF5F69|00|0|FIFA Football 2005
+481556bf89c77ca4942d659bb516cdfb|GF5P69|00|0|FIFA Football 2005
+7fed21160ed91035b90751201c9d5530|GF6E69|00|0|FIFA Soccer 06
+f0b588d5efc57990d0733682eb5a2513|G4FE69|00|0|FIFA Soccer 07
+2b743fda73dce40a2071fb07cd8bee69|GFSE69|00|0|FIFA Soccer 2002
+a7c7ac37b72a2509ea7b5aff38733720|GFAD69|00|0|FIFA Soccer 2003
+2d127a84f01491b61050f82c3a16382d|GFAF69|00|0|FIFA Soccer 2003
+805d8c85f25bed24cc030a2369315afa|GFAE69|00|0|FIFA Soccer 2003
+242f192238c60ba899ec87259e3317df|GXFE69|00|0|FIFA Soccer 2004
+ce472749d333a25c153130bcbefd8d16|GF5E69|00|0|FIFA Soccer 2005
+23eb8790b3200f9a9bf060de12cff987|GF8P69|00|0|FIFA Street
+02244977f193b4c5aca40ed9645e077f|GF8E69|00|0|FIFA Street
+a93d6515b20e1ca407d301a9f4168605|GFYP69|00|0|FIFA Street 2
+4fcc0557da4400f8b2257dde9c29e405|GFYE69|00|0|FIFA Street 2
+1f6264dabc522271dbc5e3cd5fb6593b|GEYE69|00|0|Fight Night Round 2
+284f1ff8862a0d5868157076700e80db|GEYP69|00|0|Fight Night Round 2
+a6d6064396b20c0d0d836afad97d3a4c|GCCE01|00|0|Final Fantasy Crystal Chronicles
+018b43a323a75bb73d124498327810cd|GCCP01|00|0|Final Fantasy Crystal Chronicles
+04e85610877150dd2d3f1097de6b09ae|GCCJ01|00|0|Final Fantasy Crystal Chronicles
+5f3c684e665d17dd0a11f7b027c2ca80|GFNJG2|00|0|Finding Nemo
+ec7ef437bc8006eb90fd03b4adb2339a|GNES78|00|0|Finding Nemo
+02ec927965fc5d159b13836acf555557|GNEF78|00|0|Finding Nemo
+65f782b114ae1cf3f98d565bce1e46ae|GNEE78|01|0|Finding Nemo
+f7e01141ca1f1f30a20ab865be952763|GNED78|00|0|Finding Nemo
+244607e2f6f92a1c4385fb421df4cb26|GNEP78|00|0|Finding Nemo
+18f7f037f7de19ef40defa1c1891dcb6|GNEE78|00|0|Finding Nemo
+0bf72c4840de405ee5ca1b8e3bff56aa|GFEP01|00|0|Fire Emblem: Path of Radiance
+4098af6d672eeae8749f9da67309c537|GFEE01|00|0|Fire Emblem: Path of Radiance
+4d902c074e84b7532e9f45fcb147b153|GFBE5D|00|0|FireBlade
+c01549c62efa6fcd9456a20c0890fbb1|GLHEG9|00|0|Flushed Away
+5088ba0b287e37346fd75be83696c9c9|GLHPG9|00|0|Flushed Away
+9ef093501c06832a9045d15cfe0efb12|GFFE5D|00|0|Freaky Flyers
+9b41db45e84764720d5b579187f23172|GFDE69|00|0|Freedom Fighters
+66a6c714e23c218680cfebd9fc142980|GFDF69|00|0|Freedom Fighters
+9c9324ff9ee6e79bebe2e39b41de5eb8|GFDP69|00|0|Freedom Fighters
+d3de22d5dc572c6c60eb654827d90822|GFKE69|00|0|Freekstyle
+56d73e3be3a25cd080302519970c41c2|GFXE5D|00|0|Freestyle Metal X
+193a2a26b4fa916ab893212f706e71f3|GUVE51|00|0|Freestyle Street Soccer
+6dd00a49c4714085d3e958dd5d5b8f1d|GFGEA4|00|0|Frogger Beyond
+44c22d035c7302e9eeb0349affa6bd2b|GFQEA4|00|0|Frogger's Adventures: The Rescue
+e5efb0529b5daa067bae5e024aa5f857|GFPEA4|00|0|Frogger: Ancient Shadow
+6a77e5d966166316617f0966b8c4b182|GFUE4Z|00|0|Future Tactics: The Uprising
+c7945229eefae34dc586af3dbc01634a|GROP7J|00|0|Gadget Racers
+a064265997d2e5b378793a45e18e48b7|UGPP01|02|0|Game Boy Player
+03c6f44267aa4a5c42ab20698f88f477|UGPE01|02|0|Game Boy Player
+dc2c63f02f74785d83d50b80edb66d74|UGPE01|00|0|Game Boy Player
+019a4ebb28d180d1a734ee011cea1ca7|UGPP01|01|0|Game Boy Player
+add4733c48c596619df27b36a4a499f3|UGPJ01|03|0|Game Boy Player
+73e092844193533bfd6d5c27034446a3|D87E01|00|0|GameCube Preview Disc
+536dba21b557c8d8cd8292534cfaa260|301E01|00|0|GameCube Service Disc
+a69526f27fa4b993def536f757e26802|GUNP5D|00|0|Gauntlet: Dark Legacy
+308cab2e7a82f72a5aed2209d766f65a|GUNE5D|00|0|Gauntlet: Dark Legacy
+b05b590f098c47d2bcd185a6ea7b9b6a|GITP01|00|0|Geist
+e6519bc68b09b9587d2a0b62514a4f19|GITE01|00|0|Geist
+4e7f13f4599bc2f49db4e24e5269528a|GLSP64|00|0|Gladius
+a78d6e1c9de69886ce827ad2a7507339|GLSE64|00|0|Gladius
+9e28ad915cdf85d88149f6d12a4570c6|GLSD64|00|0|Gladius
+f035b336cea1f00eb03c04b05af07cc0|GHGEEB|00|0|Go! Go! Hypergrind
+c2faef3ecffb3fabbf2e411cfc0d0036|GGCE0A|00|0|Goblin Commander: Unleash The Horde
+c07222ef7cb99341b68301e92d9c1c5d|GZDE70|00|0|Godzilla: Destroy all Monsters Melee
+72618787a045f59ecb6d1246d4ca0935|GZDP70|00|0|Godzilla: Destroy all Monsters Melee
+75751a30aca36dd24df97f05f9b2bc5d|GOYS69|00|1|GoldenEye: Rogue Agent
+8fcba9f784c49b257796e16def1f69f0|GOYD69|00|2|GoldenEye: Rogue Agent
+700a28a8f1287c85e8d39595a547097f|GOYS69|00|2|GoldenEye: Rogue Agent
+1b8165c8d2db2563158f1d2709f30849|GOYP69|00|2|GoldenEye: Rogue Agent
+57f801c71548bd7a6e281b0b028a4ac6|GOYF69|00|2|GoldenEye: Rogue Agent
+c2782e38279e020191c516943d15e8d3|GOYD69|00|1|GoldenEye: Rogue Agent
+90b22781a7d78756548b0b2d954ffb45|GOYE69|00|1|GoldenEye: Rogue Agent
+c0cfc5c7cf21e93efebdb5461578130d|GOYP69|00|1|GoldenEye: Rogue Agent
+08110ba8ac059a8f735bf951bee12edd|GOYF69|00|1|GoldenEye: Rogue Agent
+5e64f97b46fb8168417d87bdef14cb05|GOYE69|00|2|GoldenEye: Rogue Agent
+2198b7b63bb61996ac7da3eeb4a6f3eb|GG4E08|00|0|Gotcha Force
+009d434d0913930bdaeae6d164909a26|GVRE7H|00|0|Grooverider Slot Car Thunder
+29ca9557c484216e7dc15f08d7b21812|GUME52|00|0|Gun
+fa092e0701f2c02bca4d614ee74e073b|GUMP52|00|0|Gun
+83f9a8c0d653479e6278e87f81087ef1|GUMD52|00|0|Gun
+d036e1820b9ec692c1040b045db78c73|GH7E5D|00|0|Happy Feet
+a93940325551e194cb844b01ee58ce87|GHSX69|00|0|Harry Potter and the Chamber of Secrets
+233351fd9856337ac9ff799f520a52d3|GHSE69|00|0|Harry Potter and the Chamber of Secrets
+2e0df737435beb701c77672d7e80e113|GHSP69|00|0|Harry Potter and the Chamber of Secrets
+d1c41b717ea84f7cefd8157591665ec0|GHSY69|00|0|Harry Potter and the Chamber of Secrets
+6a503ca555cb774e107c39abbeb96754|GH4E69|00|0|Harry Potter and the Goblet of Fire
+293c8a344c44eacf3f0122d7335ba40d|GH4S69|00|0|Harry Potter and the Goblet of Fire
+749913df3075cf89bad39262448e0b6a|GH4F69|00|0|Harry Potter and the Goblet of Fire
+8fd35136abd95c7d8a244d86276a6636|GH4H69|00|0|Harry Potter and the Goblet of Fire
+a2780f60322f9ecd132a32c8279d95f3|GH4D69|00|0|Harry Potter and the Goblet of Fire
+cf0749fd978e8d2066b724e96f669570|GH4P69|00|0|Harry Potter and the Goblet of Fire
+8b8cc5a5709eb6ece9414c48df94dc1c|GH4I69|00|0|Harry Potter and the Goblet of Fire
+a4e5e0d81dfd245475a987242e7d4585|GH4M69|00|0|Harry Potter and the Goblet of Fire
+466291326b0d1b111c669d3e85ff72d5|GHLP69|01|0|Harry Potter and the Philosopher's Stone
+9e9f4d3a03541165060c7f0c22ec146f|GHLX69|01|0|Harry Potter and the Philosopher's Stone
+00a408be48ed1385d6d2ea591e739e33|GAZD69|00|0|Harry Potter and the Prisoner of Azkaban
+7a064f4fcdd9a320b626899c3cc41200|GAZE69|00|0|Harry Potter and the Prisoner of Azkaban
+714991846a7e26d77b6e95a7815f490b|GAZE69|00|0|Harry Potter and the Prisoner of Azkaban
+571bbcbb06f5d15a247ea1acb941f364|GAZM69|00|0|Harry Potter and the Prisoner of Azkaban
+f150ce3ef73bfcb788facd19cff0e483|GAZS69|00|0|Harry Potter and the Prisoner of Azkaban
+f28f08b06bc8972ef4cfa7f8a05d3f33|GAZH69|00|0|Harry Potter and the Prisoner of Azkaban
+4b149c0e3d330452d3f537aadc594304|GAZI69|00|0|Harry Potter and the Prisoner of Azkaban
+ffbbd8b2829f43d188465602905deeef|GAZF69|00|0|Harry Potter and the Prisoner of Azkaban
+ef68b05b8c165a81b1cd2db3e4d55a31|GAZP69|00|0|Harry Potter and the Prisoner of Azkaban
+dbbba237e6c07cf2033b474e4a90c91d|GHLZ69|01|0|Harry Potter and the Sorcerer's Stone
+047000888da263ff4485a6756671204f|GHLE69|01|0|Harry Potter and the Sorcerer's Stone
+7a40f1ec7abb1f970234a5b7af3cc436|GHLE69|00|0|Harry Potter and the Sorcerer's Stone
+4ff1402cff7f8d3fb64b2e8a67b4f54d|GQWX69|00|0|Harry Potter: Quidditch World Cup
+24b0bd8e6ea071750bcc5e115a9aee38|GQWP69|00|0|Harry Potter: Quidditch World Cup
+72b04d46b25c1af1145d210e06640d03|GQWE69|00|0|Harry Potter: Quidditch World Cup
+1b25d35660f163ebdc97165708b22f94|GYWEE9|00|0|Harvest Moon: A Wonderful Life
+9e9b1d087aef6e2993c7bbd9e7b2fcc9|GYWP41|00|0|Harvest Moon: A Wonderful Life
+4cfaa94313149c4bd839e965026a4240|GYWDE9|00|0|Harvest Moon: A Wonderful Life
+af4bc131320ca06ab198202db78f3b06|G4GEE9|00|0|Harvest Moon: Another Wonderful Life
+0b84b6ba545ea33206392fe750401c2a|G4AEE9|00|0|Harvest Moon: Magical Melody
+ab6549e841a3b091296b58d96f1eda12|GH6EAF|00|0|Hello Kitty: Roller Rescue
+3deee463f33437db5386c871baf0d5b4|GH6P7N|00|0|Hello Kitty: Roller Rescue
+98dbb24142d799b1352743b33b6173ce|GHMF4F|00|0|Hitman 2: Silent Assassin
+b8808d20deebdcf6994b07a221d9a60f|GHME4F|00|0|Hitman 2: Silent Assassin
+fadfbfb9cd3aeba7ea2e96aceb0888dc|GHMD4F|00|0|Hitman 2: Silent Assassin
+fdcf687f5016ddc57e49d6d2b0d6dc76|GHMP4F|00|0|Hitman 2: Silent Assassin
+ad59341c4767e039c9cefd6c916e9774|GLBE8P|00|0|Home Run King
+977532c2d71fe81fdfc96fe7bda6bab8|GHEJ91|00|0|Homeland
+2e054dd1650bb9fcad69053c07120671|GHWP78|00|0|Hot Wheels: Velocity X
+819f06787ec1ca0a9b8608215abb7270|GHWE78|00|0|Hot Wheels: Velocity X
+7598fc38f4a67970507cb13211fc0c54|GHRP78|00|0|Hot Wheels: World Race
+4d189c2c75de4a8bb7c9a16769dcd470|GHRE78|01|0|Hot Wheels: World Race
+78d6ed41213baa582be1f925bf9a8966|GQRJ18|00|0|Hudson Selection Vol. 1: Cubic Lode Runner
+12d57be8a6ede1e5f80fe7edad7d4ba6|GJSJ18|00|0|Hudson Selection Vol. 2: Star Soldier
+77de041e583ce11029181933b3c6e9ec|GP4J18|00|0|Hudson Selection Vol. 3: Bonk's Adventure
+c693783932da479d1e375434c2486b4b|GTNJ18|00|0|Hudson Selection Vol. 4: Adventure Island
+1086a2e93d0a373aff813b7b051d22aa|GHKD7D|00|0|Hulk
+83efa92c51f52d6a0432de138f0180db|GHKS7D|00|0|Hulk
+06985b015f2ab42eb57fc7e290d01405|GHKF7D|00|0|Hulk
+1fb6ed9b459e647447bb4d9374c9fedf|GHKE7D|00|0|Hulk
+7d74ba8cb577fe0540b4f2527fe40a98|GHKP7D|00|0|Hulk
+0c3c5f9da9e39a1e032b28f88863353b|GHNX71|00|0|Hunter: The Reckoning
+29b2760cdc12720840d031ac5a9ab202|GHNE71|00|0|Hunter: The Reckoning
+a6b8cc139d7a925c26394e481abdbc41|GWSJA4|00|0|Hyper Sports 2002 Winter
+5967d3d4041ce3f3a240c92ef42fc18a|GNJEAF|00|0|I-Ninja
+e446973ca12a66f54f5cc2fd5299811e|GIAP7D|00|0|Ice Age 2 : The Meltdown
+abe55d7ec7d4817d181b92fce1143367|GIAE7D|00|0|Ice Age 2: The Meltdown
+1cdc856fff6589f03cde183cf6bcf450|GIKE70|00|0|Ikaruga
+0ea0114e1c10dc74500a23aaf246f350|GIKP70|00|0|Ikaruga
+b155542f69263f8a16e035066a086dfd|GIKJ70|00|0|Ikaruga
+9cd10fe7077012bc2acfd8dc62b1acfa|GIVE4Z|00|0|Intellivision Lives
+b63728cbc34bcfed902d52db33ce7c0a|D55J01|00|0|Interactive Disc Catalog Summer 2003
+d5c71eabe573332799b734cccae00d32|G97P01|00|0|Interactive Multi Game Demo Disc - September 2002
+3fb4c1f280c214c73b6372297c250264|D93P01|00|0|Interactive Multi-Game Demo Disc - April 2003
+c4663e81433c0d0f2a0eb5489ec82bf9|D82P01|00|0|Interactive Multi-Game Demo Disc - April 2005
+e98d60cca9b4dc210245ad3dff43e3d1|G94E01|00|0|Interactive Multi-Game Demo Disc - August 2002
+3bd9e2f907b78bf26fc653da1debf116|D95P01|00|0|Interactive Multi-Game Demo Disc - December 2002
+cb68ca8b495fd5d487a82acbf72d5a68|D94P01|00|0|Interactive Multi-Game Demo Disc - February 2003
+87e5299f3fb6b455ce537b0360416874|D83P01|00|0|Interactive Multi-Game Demo Disc - February 2005
+0e0474431111f383cb3ecd67fe214eea|G98E01|00|0|Interactive Multi-Game Demo Disc - January 2002
+8417046b747ec2525d61ffc632406860|G95E01|00|0|Interactive Multi-Game Demo Disc - July 2002
+ca07a8a980ac05996dcd591a254c054d|D85P01|00|0|Interactive Multi-Game Demo Disc - July 2004
+528e56732ce9664c0c4c60b3aa2bcadd|G96E01|00|0|Interactive Multi-Game Demo Disc - June 2002
+9f8012ac86667bd82a8adfd78cc06d75|D92P01|00|0|Interactive Multi-Game Demo Disc - June 2003
+fcb1b79c7c88718f8f8bff9950866688|G97E01|00|0|Interactive Multi-Game Demo Disc - March 2002
+c0648270c5c0b1d50563b75f3af6c580|G99P01|00|0|Interactive Multi-Game Demo Disc - March 2002
+08b0bbc6d08fef9316228a1272897f8e|D87P01|00|0|Interactive Multi-Game Demo Disc - March 2004
+d13fada686d2174aa2d2060779682f22|G98P01|00|0|Interactive Multi-Game Demo Disc - May 2002
+bd83d63adea2812160d550fa8f110e15|D86P01|00|0|Interactive Multi-Game Demo Disc - May 2004
+9001b5a060bdbbab4952c984758fd2b9|D79P01|00|0|Interactive Multi-Game Demo Disc - May 2005
+1002b04aef2953827ef0ce0e28abd187|G96P01|00|0|Interactive Multi-Game Demo Disc - November 2002
+4159ba513c40ef945f54fed3ec919321|D88P01|00|0|Interactive Multi-Game Demo Disc - November 2003
+b2e979aa986ca14e164f48c35641b469|D84P01|00|0|Interactive Multi-Game Demo Disc - November 2004
+02859909271edb13b6f7da804b65c550|G99E01|00|0|Interactive Multi-Game Demo Disc - October 2001
+bbf2c5802c1644e72aef034532a82cbf|D89P01|00|0|Interactive Multi-Game Demo Disc - September 2003
+579f51c6fc33958549f353b13f988780|D93E01|00|0|Interactive Multi-Game Demo Disc - Version 7
+009cd0b3cbc7b5956deeb3b2440fe1e8|D92E01|00|0|Interactive Multi-Game Demo Disc - Version 8
+d4dc336eea8d77dd95977c7ceda0c598|D89E01|00|0|Interactive Multi-Game Demo Disc - Version 9
+47483783f7dedb0b6abf376d6060cb44|D88E01|00|0|Interactive Multi-Game Demo Disc - Version 10
+5b357c1c176c39dc5695c6af600777da|D86E01|00|0|Interactive Multi-Game Demo Disc - Version 11
+5913444b3696201fe1becb3a0022be6e|D85E01|00|0|Interactive Multi-Game Demo Disc - Version 12
+534859ddf15412a370eb4187496b00b0|D84E01|00|0|Interactive Multi-Game Demo Disc - Version 13
+544ffd302817cd8c907d58cb257c0c6e|D83E01|00|0|Interactive Multi-Game Demo Disc - Version 14
+0b6a6c90bc162acb29d36e05b82822b3|D82E01|00|0|Interactive Multi-Game Demo Disc - Version 15
+cd01cd6209060189e75d39fa76de4687|D79E01|00|0|Interactive Multi-Game Demo Disc - Version 16
+44d018838b39aeeddb25bbfc5802ddc7|D78E01|00|0|Interactive Multi-Game Demo Disc - Version 17
+70315e5a0fad21aa08402680f7e2f0db|D77E01|00|0|Interactive Multi-Game Demo Disc - Version 18
+4e5a8bdaf3feab07dd6073b547cdf5c4|D76E01|00|0|Interactive Multi-Game Demo Disc - Version 19
+c8490eee3f9d38e016c989d4f47c8d8b|D75E01|00|0|Interactive Multi-Game Demo Disc - Version 20
+96a5c06c7bf6f4d0d189dbe3cb6b0904|D74E01|00|0|Interactive Multi-Game Demo Disc - Version 21
+877ac909159ad93269d35be2b1665d0d|D73E01|00|0|Interactive Multi-Game Demo Disc - Version 22
+66d59d2397a25959b1bc68447a20dc44|D72E01|00|0|Interactive Multi-Game Demo Disc - Version 23
+8f787d8f270f9b5be9e92da6a9841bca|D69E01|00|0|Interactive Multi-Game Demo Disc - Version 24
+afde3e6d61a31e39627c82413389927a|D68E01|00|0|Interactive Multi-Game Demo Disc - Version 25
+04499c4891a66baac4e6b03db07ed3d5|D67E01|00|0|Interactive Multi-Game Demo Disc - Version 26
+e223786d4682f0dc70c3ff3764500040|D66E01|00|0|Interactive Multi-Game Demo Disc - Version 27
+053f342344a581858c35ff24110018ba|D65E01|00|0|Interactive Multi-Game Demo Disc - Version 28
+fa0b961ba1f3a50411a9c0a23fd642e8|D64E01|00|0|Interactive Multi-Game Demo Disc - Version 29
+0f0da9c9b0ea03c1193d9e8a60436e41|D63E01|00|0|Interactive Multi-Game Demo Disc - Version 30
+655540c5f08eb0c65ed3316405bfaaf2|D62E01|00|0|Interactive Multi-Game Demo Disc - Version 31
+e8ce2f5f6735403c2656b1fb7b082116|D59E01|00|0|Interactive Multi-Game Demo Disc - Version 32
+61fcbe3d7bc00d75c074f9f8c563152d|D58E01|00|0|Interactive Multi-Game Demo Disc - Version 33
+edbcdef9bb2726645957d5dc76dde81b|D57E01|00|0|Interactive Multi-Game Demo Disc - Version 34
+a7ed05f25acde1775780def52c649812|D56E01|00|0|Interactive Multi-Game Demo Disc - Version 35
+0674708e6e2f884b3142f0b4de874b6b|GJ2PA4|00|0|International Superstar Soccer 2
+4a5b451f3912ee7de941e9ca49bbb6e8|GJ3PA4|00|0|International Superstar Soccer 3
+998e51a469dcad2d9e9842acf7debe5f|GW7E69|01|0|James Bond 007 in Agent Under Fire
+987af8dca9dd263c27305b4f139a3547|GW7E69|00|0|James Bond 007 in Agent Under Fire
+a91e2b43028eee80f6e953a542dee9c9|GW7D69|00|0|James Bond 007 in Agent Under Fire
+54d17b5c7a4eee4bfbd648251bfab15e|GW7P69|00|0|James Bond 007 in Agent Under Fire
+dabddecce4356901b13078f95157179b|GENF69|00|0|James Bond 007: Everything or Nothing
+7d50ecfdbe7572359b1a3b46337e2db8|GENS69|00|0|James Bond 007: Everything or Nothing
+b06a75020dde3f6d3c296da11743d080|GLZP69|00|0|James Bond 007: From Russia With Love
+0c1288c3a8011a686e1b049be36cb6cb|GLZD69|00|0|James Bond 007: From Russia With Love
+660085d3965b1b432e7acbe1d0d2b350|GLZF69|00|0|James Bond 007: From Russia With Love
+79cae3e9f1176b776e6ae2c033e62627|GO7S69|00|0|James Bond 007: NightFire
+e55862c205c1cedf2426e7ca10675a01|GO7F69|00|0|James Bond 007: NightFire
+4a8b63224e4889cc27749f877060430f|GO7D69|00|0|James Bond 007: NightFire
+3971f7e05cf87c6288c740caa299a000|GO7P69|00|0|James Bond 007: NightFire
+c38826d6ce5d8858f1b7db2fe5dcc9a6|GSCE51|00|0|Jeremy McGrath SuperCross World
+684524d11d3de76ca1d2a46098f979d6|GSCP51|00|0|Jeremy McGrath SuperCross World
+06ad33cfcfd1f209875867d66f7a35c6|GYMJA4|00|0|Jikkyou Powerful Major League
+0fc7781da7dd28303c0b3cd1f0f0391e|GPPJCM|00|0|Jikkyou Powerful Pro Yakyuu 9
+17b84783d8cd2edf40e2f4295fe5e024|GPJJCM|00|0|Jikkyou Powerful Pro Yakyuu 10
+f6824525ebae69a5f55676dfea93768c|GJPJCM|00|0|Jikkyou Powerful Pro Yakyuu 11
+bb6614e6d71023d46d38e5837ffc292f|GKPJA4|00|0|Jikkyou Powerful Pro Yakyuu 12
+f86da2a0b1f62ac739b5285c5ff44c9f|GJNP78|00|0|Jimmy Neutron Boy Genius
+e278a2ddc10185a691ed99dde12d47c2|GJNE78|00|0|Jimmy Neutron Boy Genius
+c2595a8a0d347d2cdea219b3c3121604|GJYP78|00|0|Jimmy Neutron Boy Genius: Attack of the Twonkies
+28b5c7152cddd8a572058d55ecf9459c|GJFP78|00|0|Jimmy Neutron Jet Fusion
+2d0776c1e7193ead437ed26239f89aae|GJFE78|00|0|Jimmy Neutron Jet Fusion
+739271ad8766faf561f2a63133bf0396|GJYE78|00|0|Jimmy Neutron: Attack of the Twonkies
+4b78c00906e4b782c336810166663e9a|GJDE5S|00|0|Judge Dredd: Dredd vs. Death
+082fa5b1e84068f6fa256f11e60431e9|GJDY7D|00|0|Judge Dredd: Dredd vs. Death
+ac234afecae90d154ddad699c89307ce|GJDX7D|00|0|Judge Dredd: Dredd vs. Death
+7ae5919951263daf3099aa6c7992a093|GKAJ8P|00|0|Kaijuu no Shima: Amazing Island
+87e907c5b14099dce1bdb146d3afbfdf|GKOP6V|00|0|Kao The Kangaroo Round 2
+34b71d6dd1674f81d6d861ab68b00099|GKOE70|00|0|Kao The Kangaroo Round 2
+044d5336d7d473c7582e712412c95535|GK9EA4|00|0|Karaoke Revolution Party
+aa7bb7d8426832d25712a62a098ab485|GKSE52|00|0|Kelly Slater's Pro Surfer
+98648830ef3683fba4f526aaded05367|GKSX52|00|0|Kelly Slater's Pro Surfer
+4b7e77ec727d0659955967c827f889bb|GKSP52|00|0|Kelly Slater's Pro Surfer
+4cdb132c4ab2d95b9095fdb1647e9636|GK7E08|01|1|Killer7
+7393ca0cef0ff815803aeaeaa3a31a8c|GK7E08|00|2|Killer7
+8e86c62162c84b08255076f31e312db6|GK7E08|00|1|Killer7
+58a84314ef4ccf17bd118a03009f93ad|GK7E08|01|2|Killer7
+c6efb28197fa52eb76d3ba877770f63b|GK7J08|02|2|Killer7
+705faf2118e0f456ae7866024577a7f3|GK7J08|02|1|Killer7
+fda1f2fa62b0a0999f94471f56a662a3|GK7P08|00|2|Killer 7
+b55ca1e15ea751501a9fb684b6f1a6a3|GK7P08|00|1|Killer 7
+4197c40fe47a3c496fc5fa4a76935943|GKHEA4|00|0|King Arthur
+452c3b82f3652f1e137e8f0e8a4a9c1a|GKHPA4|00|0|King Arthur
+80b118e606bff06a44e84a67938cea03|GKNJB2|00|0|Kinnikuman Nisei: Shinsedai Choujin vs Densetsu Choujin
+6732cefabda3b8c8c590a2157ed2e45b|GKYP01|00|0|Kirby Air Ride
+bd936616ba7f998d8d0a1eb3f553b634|GKYE01|00|0|Kirby Air Ride
+a2710feb35ef1b2fc8a8ca3a3c30edbf|GKYJ01|00|0|Kirby's Airride
+a6931e704eb6d2a9321df0ac144fdb48|GTPP6S|00|0|Knights Of The Temple : Infernal Crusade
+0e3d5ac1d1d75d4662a9bed9e26628c5|GKKE69|00|0|Knockout Kings 2003
+a41e7d2bdb0c85f6fb669f348d3ec189|GKKP69|00|0|Knockout Kings 2003
+b6768b74ab521063420a8aa8b957e599|GKQJ01|00|0|Kururin Squash!
+e50ae224bae53b9c139b8c04bd61dc9c|GKDJ01|00|0|Kyojin no Doshin
+a34832c3f04682c9c8b18a0e94aef28b|GL8E4F|00|0|Lara Croft Tomb Raider: Legend
+e60c702eecb049f8029ad6ff67495f72|GL8F4F|00|0|Lara Croft Tomb Raider: Legend
+84fe3036a2d369135720ff9b2613a52b|GL8D4F|00|0|Lara Croft Tomb Raider: Legend
+4ca7a5a4b95e2a25a152e31a4cdb324f|GL8P4F|00|0|Lara Croft Tomb Raider: Legend
+7f73d149cfe9f877abe99c3cba26ed4e|GLGP41|00|0|Largo Winch : Empire Under Threat
+98ca97b113c2511c17c5f16a3918d940|GLWP51|00|0|Legends of Wrestling
+b9d3b563834c2a67c57ece1739be0bf1|GLWE51|00|0|Legends of Wrestling
+0da8e690157c2d2ff3770d1cb93cea89|GL2E51|00|0|Legends of Wrestling 2
+a6f6b91502712a0fbb96a67ea7d470c3|GL2P51|00|0|Legends of Wrestling II
+12be79c1b0b1c16a8239cc428328b61d|GL7E64|00|0|LEGO Star Wars II: The Original Trilogy
+8f1891665e48b9ab9f5a68d79f3827bc|GL7P64|01|0|LEGO Star Wars II: The Original Trilogy
+ccfec9c72124de261da72fd61d3aac19|GL7P64|00|0|LEGO Star Wars II: The Original Trilogy
+e55770f10bb763d9a2ade3c46069a01c|GL5X4F|00|0|LEGO Star Wars: The Video Game
+a83cc0581cc51cdb5d90ec66aa8510b5|GL5P4F|00|0|LEGO Star Wars: The Video Game
+f7383a85d57345468d360cb68ebd4a88|GL5E4F|00|0|LEGO Star Wars: The Video Game
+478276566f680d52b7604bd0818ecd85|GLCF52|00|0|Lemony Snickets A Series Of Unfortunate Events
+d7e043a973530ab94342b7af5031b086|GLCE52|00|0|Lemony Snickets A Series Of Unfortunate Events
+97ca33727b82a7f2282f724bce8f0848|GLCP52|00|0|Lemony Snickets A Series Of Unfortunate Events
+931ffece90fcb762114a0b4f2e78c270|GLCS52|00|0|Lemony Snickets A Series Of Unfortunate Events
+a399b12d7a4aef65d67288371b51c9a6|GLCD52|00|0|Lemony Snickets A Series Of Unfortunate Events
+6ef36eec5c3c81fef12fab7930a1ef79|GLNP69|00|0|Looney Tunes: Back in Action
+4a3f890fa3eca4bc8b6bec4cf20186f2|GLNE69|00|0|Looney Tunes: Back in Action
+f62cbefd48ac834aa6ccb3fdcb99b5e1|GKLF69|00|0|Lord of the Rings: The Return of the King
+5b6ef30ca8d65039d5a7f8e15101e19b|GLOS69|00|0|Lord of the Rings: The Two Towers
+f7810ef152f3287ea9874235b973c223|GRNP52|00|0|Lost Kingdoms
+181d5c18f4325d22148098759ca21b28|GRNE52|00|0|Lost Kingdoms
+37d3f930fd53334040f4dfcce94970c8|GR2E52|00|0|Lost Kingdoms 2
+d52720780d9f895a217d810a956d2b1b|GR2P52|00|0|Lost Kingdoms 2
+9a70b464d669e403ea279dd47c740383|GLUE7U|00|0|Lotus Challenge
+109274d9078b5aecf3bfa9af1d10688c|GLMP01|01|0|Luigi's Mansion
+6e3d9ae0ed2fbd2f77fa1ca09a60c494|GLME01|00|0|Luigi's Mansion
+ee1ddbe62f96b09b2394772a2900d82f|GLMP01|00|0|Luigi's Mansion
+83839f063e42f04147157382dcb019b2|GLMJ01|00|0|Luigi's Mansion
+71fa26bbe58f927f04cf5e98e3d02a43|GGZI52|00|0|Madagascar
+fb6d12be48aa0cab56dc48875b8d2edc|GGZS52|00|0|Madagascar
+16326b19640fc05c795c0a03956b0993|GGZE52|01|0|Madagascar
+4830cdfc264ebf2d30164a4f400834f1|GGZX52|00|0|Madagascar
+503db655f404b2855f923907f95b3b41|GGZH52|00|0|Madagascar
+af2ef9cfca13ec9371ed1df03d3d5ef9|G6MP69|00|0|Madden NFL 06
+5e1ded0c91abcdf70a43e3bfd1774997|G6ME69|00|0|Madden NFL 06
+6a0422b8a999b93e2b207eeeca2128d4|G7ME69|00|0|Madden NFL 07
+69f6a02af4a8f8047008eaabef212fc7|GQ8E69|00|0|Madden NFL 08
+6138333c4ff6829e7c01c7a4c0598c86|GMDE69|00|0|Madden NFL 2002
+c98f878f98d66f9e530581aec966551d|GM3E69|00|0|Madden NFL 2003
+f02fa9a87edbd9bacb6713d64b367987|GM3P69|00|0|Madden NFL 2003
+24a2f2a260bd8d92480bd47cba1cee7d|GQXP69|00|0|Madden NFL 2004
+131fb5a29defecf04511d68ffa1d0894|GQXE69|01|0|Madden NFL 2004
+5b5faea1ebd1f196210b9267c2c717c4|GQXE69|00|0|Madden NFL 2004
+7051eb43a4496c32ec490fd38a6a2dac|GNQP69|00|0|Madden NFL 2005
+7e5d91ca3bf751d53bd7718b7c278f9b|GNQE69|00|0|Madden NFL 2005
+f52a1e2167d3d854a9f05c1df6257f1c|G62E54|00|0|Major League Baseball 2k6
+262e3f6c8d1255871c5a02034fdea82d|GFTJ01|00|0|Mario Golf: Family Tour
+5fd9909e73df7fb704d2e443e17346b5|GFTE01|00|0|Mario Golf: Toadstool Tour
+a7506d6a7e7cfbda7ee81c0482c4834b|GFTP01|00|0|Mario Golf: Toadstool Tour
+7bb506ab9f88fa124ed308c727e494d6|GM4J01|00|0|Mario Kart: Double Dash!!
+d9a2e9c73f4be1a0456734445402d35d|GM4P01|00|0|Mario Kart: Double Dash!!
+97f9ebc39ab4244e419848793988561a|GM4E01|00|0|Mario Kart: Double Dash!!
+2d4b9f26fc33de2d4d4fff5232e4e592|PM4E01|00|0|Mario Kart: Double Dash!! Bonus Disc
+1cacd8b53f6fd030c78e716834c049c3|GMPJ01|00|0|Mario Party 4
+6eda0e31dcf1622ef749c5ce8f1196a3|GMPE01|00|0|Mario Party 4
+f6740fc00d9818ad1f161889382c7902|GMPP01|02|0|Mario Party 4
+5dc6f6949f09da56fd0313cbdb85fca5|GMPP01|00|0|Mario Party 4
+01de13ad52f1554975e7f316370ba086|GMPE01|01|0|Mario Party 4
+661634c2817e65cfa257796e3fb5f7c2|GP5P01|00|0|Mario Party 5
+556bea088a1072502121bfe6d883ad0c|GP5J01|00|0|Mario Party 5
+6b3699ee1f18447c4b2fabb3dd2ebf39|GP5E01|00|0|Mario Party 5
+010dece78287bcb8cafdeb15f035127a|GP6E01|00|0|Mario Party 6
+5faebc5e4ecd1813a51ca1c843615b45|GP6J01|00|0|Mario Party 6
+e4015f1a9f6259528773e5235c8bec63|GP6P01|00|0|Mario Party 6
+bd367c67fca5d93e581a43d1f61f4514|GP7E01|00|0|Mario Party 7
+b82a9ddaf4265c53062cb8cda7129312|GP7P01|00|0|Mario Party 7
+ee9f181b20a8c1f79d70b109d4372367|GP7J01|00|0|Mario Party 7
+286c7fae43220b6bb45c169185d36ad3|GOME01|01|0|Mario Power Tennis
+5532d17918026a58af3593aa4aaaa450|GOME01|00|0|Mario Power Tennis
+0f09da2b8e32bcb352bfb727fb1ea725|GOMP01|00|0|Mario Power Tennis
+a8f5af5a3af020a9b3d1303d900bffe2|G4QP01|00|0|Mario Smash Football
+3797367d5c0ca1ef0bb522698227f6f1|GYQE01|00|0|Mario Superstar Baseball
+025877b2ee61ad6081830979b8e77a0c|GYQP01|00|0|Mario Superstar Baseball
+60a52be1d4d5fadc3838d73d6de200f5|GOMJ01|01|0|Mario Tennis GC
+73cee4f4d72e45048cb8cbee3dcfae17|G9BEE9|00|0|Mark Davis Pro Bass Challenge
+78159b716612d408ffa9d6bece0e5fb9|GVLP69|00|0|Marvel Nemesis: Rise of the Imperfects
+a20c15e3f18e51aea9f994ee9f746c65|GVLD69|00|0|Marvel Nemesis: Rise of the Imperfects
+bb1197fe630e14e33818267aff206f3d|GVLE69|00|0|Marvel Nemesis: Rise of the Imperfects
+6b754b72a6f3e600495ac0b2702b48ca|GMAP51|00|0|Mary-Kate and Ashley: Sweet 16 Licensed to Drive
+a10b12cc8632b36e002c6fcee22c1282|GMAE51|00|0|Mary-Kate and Ashley: Sweet 16 Licensed to Drive
+b3a39de8a6878a2e81ade8d001f79d33|GMHP52|00|0|Mat Hoffman's Pro BMX 2
+08c430a108055243426c6b39c498eefb|GMHE52|00|0|Mat Hoffman's Pro Bmx 2
+26f19a580a180a33ba88e960def9fc51|GR4PMZ|00|0|MC Groovz Dance Craze
+e51a8da2bfea7f971727816e562c84fd|GR4EMZ|00|0|MC Groovz Dance Craze
+0cc1267f8758c983cf8a32b37958b85b|GM6PE9|00|0|Medabots Infinity
+4f22990fcd37e9aaac6dc96bc2752140|GM6EE9|00|0|Medabots Infinity
+36f8606d222e614dab20d2286184dc6d|GM6EE9|01|0|Medabots Infinity
+b9dd0b9596e110c7ff6b5485ebfc7fef|GONJ13|00|0|Medal of Honor: Europa Kyoushuu
+431530db74ef7ccfb38942c198ab0a7e|GOND69|00|0|Medal of Honor: European Assault
+d85bc7691c39e39c351563fd185fa035|GONP69|00|0|Medal of Honor: European Assault
+4acc3c88798c671cfb80fb55f2912098|GONF69|00|0|Medal of Honor: European Assault
+e70a05b36b9aad79997f73f034aa2a7c|GONE69|00|0|Medal of Honor: European Assault
+b6cdf7e9090f32ca51360341f951e51f|GMFE69|00|0|Medal of Honor: Frontline
+349e99dacde4b9a4cdd0fca09e44264b|GMFI69|00|0|Medal of Honor: Frontline
+5fed090c1d01ab8c84ba0cc4fe31e70f|GMFF69|00|0|Medal of Honor: Frontline
+7cdfad92b8ce9b0a7f0167c18e2fdee9|GMFS69|00|0|Medal of Honor: Frontline
+8be1705cbc9678d91d741b59cc227af6|GMFD69|00|0|Medal of Honor: Frontline
+b07b611405fc84198e00f3b3d97b4f9a|GMFP69|00|0|Medal of Honor: Frontline
+76d6e0a9d13922aaebccf4dfa363bf1d|GR8P69|00|1|Medal of Honor: Rising Sun
+f5ac375a401aa9728b9a6591b05d3da9|GR8E69|00|1|Medal of Honor: Rising Sun
+8b32e9ef34fa2d3c22cefd1c63da8067|GR8P69|00|2|Medal of Honor: Rising Sun
+b582f6719f9f53e11add209dfb88fa6a|GR8F69|00|2|Medal of Honor: Rising Sun
+9ae88d41b322b6480457ea0c0ed86512|GR8D69|00|2|Medal of Honor: Rising Sun
+416b1061c226f509c40a885e87fba2f2|GR8E69|00|2|Medal of Honor: Rising Sun
+9b28a091fdcef6c08a5bd7cfe65d029a|GR8F69|00|1|Medal of Honor: Rising Sun
+600659bd7ad07ded23b344d9f2b6bf04|GR8D69|00|1|Medal of Honor: Rising Sun
+938d0b2f2c46aeb3503a3f78a69c3fea|GQTE4Q|00|0|Meet the Robinsons
+8218316438e841364b980b5b95a54a78|G6QE08|00|0|Mega Man Anniversary Collection
+ce11389361d3b5c60f30ccb1d197f169|G6QE08|01|0|Mega Man Anniversary Collection
+db7c0b15e99bd0b52a2c44100e7b40cb|GREE08|00|0|Mega Man Network Transmission
+9ce508e45fec6d36444ddfbc8938c7b7|GREP08|00|0|Mega Man Network Transmission
+74b153a4f45ef6750c4a6baf4b249b94|GXGE08|00|0|Mega Man X Collection
+ddaf03e8bb5b7ca43ae2f2d77087f917|GXRE08|00|0|Mega Man X: Command Mission
+bd0f6597c620b7f7264d383e4e2531f8|GXRP08|00|0|Mega Man X: Command Mission
+87d5078c547207920a56ccc81bce82d1|GMEE70|00|0|Men In Black II:  Alien Escape
+e9213452956db666d6f5141c2f3821a5|GMEP70|00|0|Men In Black II:  Alien Escape
+d6b0c2d46433e09e5f98caab73d20912|GM5P7D|00|0|Metal Arms: Glitch in the System
+c0127b69963591edcac97437bc407272|GM5E7D|00|0|Metal Arms: Glitch in the System
+4d44fc6da6d2fbc7a47e7fdda868139c|GGSPA4|00|1|Metal Gear Solid: The Twin Snakes
+0720e3d3fe42587b2ce22fbb8a60b847|GGSEA4|00|1|Metal Gear Solid: The Twin Snakes
+4b0bc9bfe1c4098725bef272f5e03f4d|GGSJA4|00|2|Metal Gear Solid: The Twin Snakes
+796319a44e67e9d34e90482d36b26e18|GGSJA4|00|1|Metal Gear Solid: The Twin Snakes
+8d316f3b9438977101b7b8e0cb5c1418|GGSEA4|00|2|Metal Gear Solid: The Twin Snakes
+f8bf95d701e46bdbaf9e4a9f9b632c04|GGSPA4|00|2|Metal Gear Solid: The Twin Snakes
+fdfc41b8414dd7d24834c800f567c0f8|GM8E01|02|0|Metroid Prime
+b1379c44e0ebc521e18215de3e5dbeea|GM8P01|00|0|Metroid Prime
+b8d973124613dc3053a635b645a5f78c|GM8J01|00|0|Metroid Prime
+eeacd0ced8e2bae491eca14f141a4b7c|GM8E01|00|0|Metroid Prime
+c3a180b9c99b6a1590762c6510f29063|G2MJ01|00|0|Metroid Prime 2: Dark Echoes
+37fa7767fff54cd4c19bf0db30443520|G2MP01|00|0|Metroid Prime 2: Echoes
+ce781ad1452311ca86667cf8dbd7d112|G2ME01|00|0|Metroid Prime 2: Echoes
+9f896293ce056a5675c4968ca6285fb6|P2ME01|00|0|Metroid Prime 2: Echoes (Bonus Disc)
+a3842e886346497ad83c66915111821d|GMOP70|00|0|Micro Machines
+6b4a7c29354a9c312dbd3d7a5ae23210|GAKE5D|00|0|Midway Arcade Treasures
+45bbe4821952e38bebb928ee3db137dc|GAYE5D|00|0|Midway Arcade Treasures 2
+89ae6da8f1eeacf1fe79b5b66b29de01|GE3E5D|00|0|Midway Arcade Treasures 3
+bff0db5e3d9b5f7d76dee5bd486302e3|GMWD52|00|0|Minority Report: Everybody Runs
+7a601a4058a20e7955e4d2da0252c7e0|GMWE52|00|0|Minority Report: Everybody Runs
+a36cb7ef1458adfd153f525396f062f4|GMWF52|00|0|Minority Report: Everybody Runs
+89f57158fa7648804aaf8d828164a557|GMWP52|00|0|Minority Report: Everybody Runs
+a467e35791894810d26fedf562a42c43|GMIE70|00|0|Mission Impossible: Operation Surma
+c423cb1b3eaf35e389d3124c99a78a56|GMIP70|00|0|Mission Impossible: Operation Surma
+a8beca930233f9ecc185e5b41bd84399|GSGE5D|00|0|MLB SlugFest 2003
+7fcf6fcc9c71bb5dc8ea4e6f31469abd|GS7E5D|00|0|MLB SlugFest 2004
+a9e18b6dd8a171d727d895a47d7e7147|GMQP70|00|0|Monopoly Party
+2158401ff581e002d5436cdf857d0fa3|GMQE70|00|0|Monopoly Party
+9e3d9b672d863d8055e0950f72a831f5|GMZE41|00|0|Monster 4x4: Masters Of Metal
+1ee274ecf918ef7ec0cc677fb1635af5|GK5E78|00|0|Monster House
+acb470cfb7b8299f0e3ecefd6cd65893|GK5X78|00|0|Monster House
+3654d185f772cc2b9958b19239b39a8f|GK5P78|00|0|Monster House
+4052c7b9baf85e3a72dfc279382b6bdb|GMJP41|00|0|Monster Jam: Maximum Destruction
+a78314726ae7415e2ddccd9a53ebe79f|GMJE41|00|0|Monster Jam: Maximum Destruction
+745d25a6458af6b943fbf98337094bef|GMNE78|00|0|Monsters, Inc. Scream Arena
+b2c9ba8474c55548dc661c2fbe0e7dce|GMNP78|00|0|Monsters, Inc. Scream Arena
+84936411bf7768bcdac3be8f401ad8eb|D33J01|00|0|Monthly Nintendo Shop Demo - July 2002
+f185e3c31a81519ee0c0b2539ebcd442|D34J01|00|0|Monthly Nintendo Shop Demo - July 2002
+72989eef047e97918465592f4bdc1587|D32J01|00|0|Monthly Nintendo Shop Demo - June 2002
+d74671494b007f3bc4daca9e3683a779|D29J01|00|0|Monthly Nintendo Shop Demo - May 2002
+7b2a52d5d19fe179811c168aa2cc0875|GMKE5D|00|0|Mortal Kombat: Deadly Alliance
+c2ae14b33d9435f13762b83391c110f7|GMKD5D|00|0|Mortal Kombat: Deadly Alliance
+ee5e87edf64e42130580ff044673fbd0|GMKP5D|00|0|Mortal Kombat: Deadly Alliance
+bdef32ed1dcb85bc6da370fa5c2d949d|GQNE5D|00|0|Mortal Kombat: Deception
+21a066f02b3f3e8e6367000bbde12188|GDPJAF|00|0|Mr. Driller: Drill Land
+432e2a9e51ca71f5cf2b9e8e193ea4a0|GM9E6S|00|0|Muppets Party Cruise
+36a2c220c0ad4537b9c16670fb85ba8c|GVPE69|00|0|MVP Baseball 2004
+bde89e9178c2066e457c9c4b34935280|GV4E69|00|0|MVP Baseball 2005
+cab7d9e495f15896e36027a96d3aa976|GSVE78|00|0|MX Superfly Featuring Ricky Carmichael
+99a777a7a0ef117925f97644f3785d20|GSVP78|00|0|MX Superfly featuring Ricky Carmichael
+edf593cf07ff622ccb92c41323d905d1|GBHFC8|00|0|Mystic Heroes
+30e9296bd2bca38e63e106930722660e|GBHEC8|00|0|Mystic Heroes
+87d643dbb4f3f1d199b90baa72a41bc7|GBHDC8|00|0|Mystic Heroes
+4d8c33d91ecc2256f107959f07c030ef|GNMEAF|00|0|Namco Museum
+97fc6fdc7757f70678f8640917c28114|G5NEAF|00|0|Namco Museum 50th Anniversary
+28cdd8c9eae1ebbbe8d11a8c91b366fd|GNREDA|00|0|Naruto Clash of Ninja
+1345ddb06467c7cc2c5c82d0d5e7b1d6|GNUEDA|00|0|Naruto Clash of Ninja 2
+60ab975a509e8c71c48d078f1142689e|DNUEDA|00|0|Naruto Clash of Ninja 2 (Demo)
+2b76e07ee007ce1674a197b20a0555fe|GNUPDA|00|0|Naruto: Clash of Ninja - European Version
+f3d7ca2374c4e756a2680d8208016223|GNUJDA|00|0|Naruto: Gekitou Ninja Taisen! 2
+60984e9954be576fee160737c57c9f93|GNRJDA|00|0|Naruto: Gekitô Ninja Taisen!
+f65096558efa7a004cbbd215f9087e0e|G3NJDA|00|0|Naruto: Gekitô Ninja Taisen! 3
+fe115430566380f23768623f57ddafa0|G3NJDA|01|0|Naruto: Gekitô Ninja Taisen! 3
+20cdb87874ce4f2db4717fb43682e026|G4NJDA|00|0|Naruto: Gekitô Ninja Taisen! 4
+f84f61616e2947daa43aecc27d57898d|GN4E69|00|0|Nascar 2005: Chase For The Cup
+d1636dfea6881e01230e4d7265938ef4|GNCE69|00|0|Nascar Thunder 2003
+03983112d67c9e84d32b83935795d303|GN2E70|00|0|Nascar: Dirt To Daytona
+f4a5df3326e5b394184cf721e2b88237|GBAE8P|00|0|NBA 2K2
+2b74d7c334c440062705ea325036bf06|GK3P8P|00|0|NBA 2K3
+f030b9c24bfacad63a1539a2ff5bf4b0|GK3E8P|00|0|NBA 2K3
+3660a90e46ce81f83d4c6218c121bc02|GNBP01|00|0|NBA Courtside 2002
+a44981f541acfe09945b6946f05a282e|GNBE01|00|0|NBA Courtside 2002
+ac9121a54a70d8fe730aef477d571790|G6NE69|00|0|NBA Live 06
+09464d7290bba3b6d83c1f49ae0b06a9|GNLE69|00|0|NBA Live 2003
+712f0698da9775ba5a199248c2fb9b13|GN8P69|00|0|NBA Live 2004
+69da3a3801f4bc736a75429d80f730b6|GN8E69|00|0|NBA Live 2004
+bf9d5bce884cc12e402e6b2a6f1aba21|GLYP69|00|0|NBA Live 2005
+a7eb69f4d502f3d687b6194d98b348cf|GLYE69|00|0|NBA Live 2005
+cf24de778cb8e400d57513124eb6653a|GNSE69|00|0|NBA Street
+d1a5a64826ef87eddb18a9a0523cfd30|GNZP69|00|0|NBA Street Vol.2
+a575f3dbeff9da2e3eb87d371a497d70|GNZE69|00|0|NBA Street Vol.2
+2da7d788886a972420a08faf5fa04632|G3VE69|00|0|NBA Street Vol.3
+fec56edcd474fc7f1f0627710d2c878d|GNKE8P|00|0|NCAA College Basketball 2K3
+a267e1b627497cd8270551114a63c78b|GNAE8P|00|0|NCAA College Football 2K3
+ed722ecf2fdf7e0c5d4dd3190eb905e4|GNGE69|00|0|NCAA Football 2003
+1065eec6fec91e81d93ceeb05a90673e|GNXE69|00|0|NCAA Football 2004
+a5046f1bfa86702bf3ae78ff763d2334|GCUE69|00|0|NCAA Football 2005
+6446175d09f065c84d4919450178fd44|GW5D69|00|0|Need for Speed: Carbon
+d1ae4bebadc01c4ca1dde6d100e3dedb|GW5P69|00|0|Need for Speed: Carbon
+e9ecacbd68a425337be47944b7ea6b87|GW5E69|00|0|Need for Speed: Carbon
+c12c489ba30b4a02ff9ae44bc8337b5a|GW5F69|00|0|Need for Speed: Carbon
+f12d73674be53affb0a87a9e48e101e8|GH2E69|00|0|Need for Speed: Hot Pursuit 2
+11b6dfe2d930485917f7ac69d9d449c5|GH2P69|00|0|Need for Speed: Hot Pursuit 2
+10adf7ad68c62a0cc76aeb3412461bd5|GOWJ69|00|0|Need for Speed: Most Wanted
+2c945df089d7967e1f5eb13d1c40f43a|GOWF69|00|0|Need for Speed: Most Wanted
+ccae1994b8ab098ff427e6ef95ea7909|GOWE69|00|0|Need for Speed: Most Wanted
+b8c865d5b6a440fba1e55850bd1f66c8|GOWP69|00|0|Need for Speed: Most Wanted
+f2246e483f25cd3c1d325a9240497c6d|GOWD69|00|0|Need for Speed: Most Wanted
+4ee3b6c5d66cc088c8b82baf8c02eae5|GNDP69|00|0|Need for Speed: Underground
+e80ab06493365fca7e400d4c87e778d6|GNDD69|00|0|Need for Speed: Underground
+c20f02454166bc8fa08f84307871ac7d|GNDE69|00|0|Need for Speed: Underground
+308b4bad57a4666d2597a6b4e0e85722|GUGP69|00|0|Need for Speed: Underground 2
+4d5120a533007d18d3297ee2edab9533|GUGE69|00|0|Need for Speed: Underground 2
+6e846832929e4d025d34358f69748c80|GUGF69|00|0|Need for Speed: Underground 2
+89c3c4148a5ae00db23fc68834d9ea84|GUGD69|00|0|Need for Speed: Underground 2
+98d73433025ee858e640cb37a0f00fbe|GF3E8P|00|0|NFL 2K3
+d7c60755566e573903891b4adc22a8eb|GNFE5D|00|0|NFL Blitz 2002
+d5061d91f42481f7a9c120249945e128|GO3E5D|00|0|NFL Blitz 2003
+1d92bf6a0467e48ead6251c444a3e341|GFVE5D|00|0|NFL Blitz Pro
+ed249f6e029f92158c86d00e28b4926e|GQBE51|00|0|NFL Quarterback Club 2002
+f53dbe9f04864394cbb05f906be96095|GNNP69|00|0|NFL Street
+78a89ed4baf2602feff65b61b63b2134|GNNE69|00|0|NFL Street
+6ac216d88f4c833b0cb2fd9424264dce|GN7E69|00|0|NFL Street 2
+5a73ce1f5fbc92a6ebbf92da41671e58|GN7P69|00|0|NFL Street 2
+3b4142b89e66342de6f42c0712a9aff5|GN6E69|00|0|NHL 06
+5ef5b9d7e2eab0df6d94652285fece42|GN6P69|00|0|NHL 06
+00931b098c8bdfccb014c54f5c4d7bc4|G2KE8P|00|0|NHL 2K3
+56a89c3e2c492d88f701e989291ab7db|G2KP8P|00|0|NHL 2K3
+1e93dbe42c9a1d7fe90dfe49cd307ae4|GH3P69|00|0|NHL 2003
+d59e50fb88199840e192c2c61926f1d6|GH3E69|00|0|NHL 2003
+61aa515d14b56254634ea4722abd7e83|GNVE69|00|0|NHL 2004
+54af4aafc13572b971c849aa1f138698|GNVP69|00|0|NHL 2004
+83b64504907b99b4b54ba7697e034529|GN5E69|00|0|NHL 2005
+8529104bd02c680edc7c7f5371d3b9a3|GN5P69|00|0|NHL 2005
+9b04a5dadd1de2ef1e428994506370a0|GNHP5D|00|0|NHL Hitz 20-02
+488d2a15d25da53fa4451a5e8471dfbc|GNHE5D|00|0|NHL Hitz 2002
+3779ffd4ae284fe3e6da6307e8fa3c6a|GN3P5D|00|0|NHL Hitz 2003
+1f26fd56ed2598b410f35945e199c45d|GN3E5D|00|0|NHL Hitz 2003
+14e6a4524ef4f370a81aa8019bc3ecc7|GHZE5D|00|0|NHL Hitz Pro
+96880c826c6e37897226b47e3f72b66c|GNPP70|00|0|Nickelodeon Party Blast
+5dc69a828717d8a2f1822c010084eb3a|GN9E70|00|0|Nickelodeon Party Blast
+cd9584b6abd10a30d18bace5af7435c5|GU6E78|00|0|Nicktoons - Battle for Volcano Island
+232fce9fef02b7bf2df4d77f3f479521|GNOE78|00|0|Nicktoons Unite!
+deff493b8e1631e89e320dbf1e54a36c|GPZJ01|00|0|Nintendo Puzzle Collection
+27116ebb1bd8a71ca2f7be022a3e32a1|GOOE01|01|0|Odama
+0e15f80a6409b292b2aec19ac70e01b5|GOOJ01|01|0|Odama
+86b28367df1dbb2087a1d895f2fe6da5|GOOP01|00|0|Odama
+5903bdd79d8bf683fa49e9c10f532f9c|GOQE82|00|0|One Piece: Grand Adventure
+9d3003e2d67ee34090c7221b47fc6d32|GOGJB2|00|0|One Piece: Grand Battle! 3
+8409358fd01657ee5bb9d8e9a46fab56|GOPJB2|00|0|One Piece: Grand Battle! Rush
+56fd2ac0586c82c3b2700b3292be644d|GOSP41|00|0|Open Season
+031fc87bf00373181fb9531102beaef8|GOSX41|00|0|Open Season
+1b6080380144f968e2b36990a0a46d23|GOSE41|00|0|Open Season
+a000c965968d98aeec0fe84598e02443|GOFE7L|00|0|Outlaw Golf
+72eb900e042e9c76061def3e6fcead7d|GOFP6S|00|0|Outlaw Golf
+a877e9b332dd19ac48e13f465740c595|GH5E52|00|0|Over The Hedge
+c258686b55940e65d82357bde87a5363|GH5F52|00|0|Over The Hedge
+1ef0bad369dd2daa37ff9c1c4de438c1|GH5D52|00|0|Over The Hedge
+524d5501130ebe3c53e43334b75d358b|GH5P52|00|0|Over The Hedge
+a8b580c8a7473eef631d821d8dc0b500|GPNP08|00|0|P.N.03
+e2bcc58b1128db5a146d7b30b41459e3|GPNJ08|00|0|P.N.03
+4af4013136bb2db2053b26e811c8f9c1|GPNE08|00|0|P.N.03
+9e61d49977f63c924c81d2f18e58b9bb|DPNP08|00|0|P.N.03 (Promo)
+af91e12f3e9fa08ba748122f42690f0a|GPMEAF|00|0|Pac Man Fever
+a475bacb0b67f832f65b7f6e6325ed97|PRJP01|00|0|Pac-Man vs.
+99821e6427280c55b00ff3fd6fdd3b94|PRJJ01|00|0|Pac-Man vs.
+e293a4c90bc4c91f51335ab68c6188da|PRJE01|00|0|Pac-Man vs.
+d35c1bd0d46f4642e5e9dc5d87d420c6|GP2EAF|00|0|Pac-Man World 2
+2ab9caf12b9a03d8272190d03d77d122|GP8PAF|00|0|Pac-Man World 3
+65db291bba4770479fc822c119792582|GP8EAF|00|0|Pac-Man World 3
+c88e8c76ba0323526f5d30afe33fc3fd|G89EAF|00|0|Pac-Man World Rally
+bec52fb8c1912bc6f8014801b6281422|G8MJ01|00|0|Paper Mario RPG
+db9a997a617ee03bbc32336d6945ec02|G8ME01|00|0|Paper Mario: The Thousand-Year Door
+81321e8256205e3cfb71257e6ba2970f|G8MP01|00|0|Paper Mario: The Thousand-Year Door
+7552639b78544caff01d5690f5945a52|GWKP41|00|0|Peter Jackson's King Kong: The Official Game of the Movie
+8ac57d2645ed752a491bd9f88703d394|GWKE41|00|0|Peter Jackson's King Kong: The Official Game of the Movie
+b4e4f4a315c485868437a010deb72aee|GPOJ8P|02|0|Phantasy Star Online Episode I & II
+23384e9d3dd6e28dba39231660d1fcad|GPOJ8P|05|0|Phantasy Star Online Episode I & II
+81724d71a2143a4fccf49020737d3add|GPOE8P|01|0|Phantasy Star Online Episode I & II
+ee4c772cc90ecb6537a331538e1bf4db|GPOP8P|00|0|Phantasy Star Online Episode I&II
+d4f78ba62b93f609d3867e6fddffed71|GPSP8P|00|0|Phantasy Star Online Episode III: C.A.R.D. Revolution
+c0d2c8a25b12249ee70c5655b2270069|GPSE8P|00|0|Phantasy Star Online Episode III: C.A.R.D. Revolution
+bf25d3ae9cd5eb4827ec8f77fe367006|GPSJ8P|00|0|Phantasy Star Online Episode III: C.A.R.D. Revolution
+6dcc11dab3bf7fc938163af3681b510f|GPLE9G|00|0|Piglet's Big Game
+0e343628722205209b960cfb262c88b8|GPLD9G|00|0|Piglet's Big Game
+08a70125f87b1f49a9a6e98d9e6fef9b|GPLF9G|00|0|Piglet's Big Game
+6b0dd0013e48770bf3c541f9f78a7ecd|GPLP9G|00|0|Piglet's Big Game
+a249b6aac02b24223b0156fc2eaf8853|GPIE01|01|0|Pikmin
+f8a29cb63d0599f8297efa899a504ebf|GPIP01|00|0|Pikmin
+1fe42e4bdb0ef1442103c74fca7c9dce|GPIJ01|01|0|Pikmin
+859749be98199eef4ea1ffe412053624|GPIJ01|02|0|Pikmin
+66f8d886afa0742cd9901d1bfe3b114f|GPVE01|00|0|Pikmin 2
+1b4f19133c426b18ba782be83a8a31a9|GPVP01|00|0|Pikmin 2
+4276b6a56cc117d2f6ac711a542ea415|GPVJ01|00|0|Pikmin 2
+5dbd5ef2b1c70dfae4bb82055ee83200|GHFE4Z|00|0|Pinball Hall of Fame: The Gottlieb Collection
+ad35176fc7a9fad11c38ec68ddcbb621|GPHE52|00|0|Pitfall: The Lost Expedition
+8404f0041cf4ad5018b7b7c45ace7b40|GPHF52|00|0|Pitfall: The Lost Expedition
+2b38e9ba5f3a42d2a50ee576b6ee9843|GPHD52|00|0|Pitfall: The Lost Expedition
+a9dd81217659e5e2a51763a51b7e1fe9|GPHP52|00|0|Pitfall: The Lost Expedition
+ae6b4ba657b1cecdb4b139c3c839c426|GPXE01|01|0|Pokémon Box: Ruby & Sapphire
+6e7ee88f125b1d5ef40c41649f4b1b69|GPXJ01|01|0|Pokémon Box: Ruby & Sapphire
+77f08fb8725ba7bf5a77207d131cbe47|GPXP01|01|0|Pokémon Box: Ruby & Sapphire
+7a71668c8d9b6b8b1f038df208332116|GPAJ01|00|0|Pokémon Channel
+e38ea020f7a711053c8ce93e9b85a88d|GPAE01|00|0|Pokémon Channel
+b8458021c748c1462302e053ef5b202d|GPAU01|00|0|Pokémon Channel
+b570d1f6ea59c66ceaf8497871b01e88|GPAP01|00|0|Pokémon Channel
+6d5943a801ac7a186af91cd742668287|D56J01|00|0|Pokémon Channel (Bonus Disc)
+2be2607ae4826cbc77efb4ef4ada6385|GC6P01|00|0|Pokémon Colosseum
+e3f389dc5662b9f941769e370195ec90|GC6E01|00|0|Pokémon Colosseum
+81620f774d142df466aab9c4bff7a686|PC6E01|00|0|Pokémon Colosseum Bonus Disc
+3bc1671806cf763a8712a5d398f62ad3|GXXE01|00|0|Pokémon XD: Gale of Darkness
+f36d14bebf8fea6a046404bff6adb7e6|GXXP01|00|0|Pokémon XD: Gale of Darkness
+6c5a279ac55f646476c9dc854c52ef00|GPRP7U|00|0|Pool Paradise
+21ca392eb0024d57a4fddc09f58d1979|GPRE7U|00|0|Pool Paradise
+189912197afbcfb668b6e20f1d243224|GRUP78|00|0|Power Rangers Dino Thunder
+0825b00a5e7aaac9466676cd465b626c|GRUE78|00|0|Power Rangers Dino Thunder
+c1c89efb6bcffe0386dd724a5a884a21|GPTP41|00|0|Prince of Persia: The Sands of Time
+df7cd3837909dc41dd0a6b1821466d56|GPTE41|00|0|Prince of Persia: The Sands of Time
+4fd126445e3ef0792efc77ffac213ef0|GPTE41|01|0|Prince of Persia: The Sands of Time
+88bfad6bc3f1356741aaa5c36ce1ec39|GKME41|00|0|Prince of Persia: The Two Thrones
+158fe130869669bd4129ad6a3f8d83ba|GKMP41|01|0|Prince of Persia: The Two Thrones
+2ac58c9a30bd3c8de87e4e77f5223ca9|G2OP41|00|0|Prince of Persia: Warrior Within
+dce5a1a75982905554d9d465a743ff3b|G2OE41|00|0|Prince of Persia: Warrior Within
+714ce464af4e79b046388f0e9019c616|GRLP41|00|0|Pro Rally
+af3e4ffac4c1e4b71e081af42c452ee3|GRLE41|00|0|Pro Rally
+ef40bc018224e989423cfb02bf3c2864|GWTPA4|00|0|Pro Tennis WTA Tour
+a1f264cfdba51ccbd91c5d8227f9486c|GPYJ8P|00|0|Puyo Pop Fever
+8bb0e238c43b19f3d16aa6427aaf8631|GPUE8P|00|0|Puyo Pop Fever
+a5fba1dd07fea4e5a548185b7fdfd362|GPUP6W|00|0|Puyo Pop Fever
+664039ddb018164fdbc6ba190a85c020|GRJP69|00|0|R: Racing
+cb0cb99aa8a3bfe5e8e832cb866c990e|GRJEAF|00|0|R: Racing Evolution
+ea37d996d705cef9e9bb2099e3f8c86e|GRJJAF|00|0|R: Racing Evolution: Life in the Fast Lane
+a217cf3d0a44dc2b744567eec5739aaa|GRAE5Z|00|0|Rally Championship
+cada25f283e6d328d821c759558482d3|GRAP75|00|0|Rally Championship
+51167bb3cecea86d774678f2761eb441|GXNE5D|00|0|Rampage Total Destruction
+f4eb6225f2bbd2664321e646a1351144|GLLE78|00|0|Ratatouille
+23f52359347b4f38911ce8465a33cd60|GLLF78|00|0|Ratatouille
+f37d9954250469e99d1a74fbf5f5972b|GRVEA4|00|0|Rave Master
+40386ae7cb46600bf05e8980c0773ffc|GRHE41|00|0|Rayman 3: Hoodlum Havoc
+f00fd89b8c855535d26c595865a1ba35|GRHP41|00|0|Rayman 3: Hoodlum Havoc
+4e7b4dd0444ebfeb7ec2ab253116d437|GRYE41|00|0|Rayman Arena
+a89f62517c5133b4605e578abd20a819|GR3E5D|00|0|Red Card 2003
+cefd67fc6f5efe2109c8196d65b0e417|GRFP78|00|0|Red Faction II
+3bab9c254a5dcbe5d6e5b114e4ab8738|GRFF78|00|0|Red Faction II
+c8b636933e1af09d8171638d843b851f|GRFD78|00|0|Red Faction II
+ebf367961c483aeda8cefd73da296295|GRFE78|00|0|Red Faction II
+daff86cd5da46786b570e12d5dc58d7e|GR9E6L|00|0|Reign of Fire
+e7eea54f0af76c80c70b81791c5cc90f|GR9P6L|00|0|Reign of Fire
+457944f833fc2f5e8ff394cfdf2e1b7c|GBIP08|00|2|Resident Evil
+bdd0fe3848c4ab1441dc6c9ee209426b|GBIE08|00|1|Resident Evil
+c581fab5fd10f55b76188e86194199c1|GBIP08|00|1|Resident Evil
+7defd099e98944bc93684d4733bfe68b|GBIE08|00|2|Resident Evil
+ee2967ed8ccda671999a5151f2026723|GHAE08|00|0|Resident Evil 2
+96798436434e7af83b5e52b0c8786923|GHAP08|00|0|Resident Evil 2
+428abf23e4c06dbfcbd3cea2fa577385|GLEE08|00|0|Resident Evil 3: Nemesis
+be608fb975ad73d792244a2e0a286693|GLEP08|00|0|Resident Evil 3: Nemesis
+ca749757e3b9d119f3feb1f9f0f81bd7|G4BE08|00|1|Resident Evil 4
+22db91d40629df75e63a019e0f9d72f5|G4BP08|00|1|Resident Evil 4
+2381acd2199d6e7566932df86901903d|G4BE08|00|2|Resident Evil 4
+41a0f650dd5a80dc8d0c268037ff2320|G4BP08|00|2|Resident Evil 4
+a13adfc2b37255389cc4eef8ab45c0da|D4BE08|00|0|Resident Evil 4: Preview Disc
+e518c5cbc3c5596f8468b765cd16c1f2|GCDP08|00|1|Resident Evil Code: Veronica X
+4353d37246529d9493ef5db3aef419a0|GCDE08|00|1|Resident Evil Code: Veronica X
+c4373cdcaa79b863fba94b1cae0efeb0|GCDE08|00|2|Resident Evil Code: Veronica X
+eecdddbff7b57f5a174a03cc83a06f8b|GCDP08|00|2|Resident Evil Code: Veronica X
+5ea73a9328c549c74c4feaf68abae7bc|GBZP08|00|1|Resident Evil Zero
+0ee40d54f7da504b559ae7eb4bb31b9d|GBZE08|00|1|Resident Evil Zero
+9d0c9be6e329768b1092d5fb0e7358e4|GBZP08|00|2|Resident Evil Zero
+51f50b40a979ce53b2b19f8161ad9cd0|GBZE08|00|2|Resident Evil Zero
+67b83d2ef427326b8f69e995fa104245|GKREB2|00|0|Ribbit King
+28a18a5c62f46923e6349c7b47587bf3|GKRPB2|00|0|Ribbit King
+a7c4d17e34bade211b797fd3c7130fc0|GKREB2|01|0|Ribbit King
+297d13cd9485baab035df30b289a1bcd|GROE5Z|00|0|Road Trip: The Arcade Edition
+cc7dac0c9c33410d81fc9ffa0c7a54ab|GOCE5D|00|0|RoadKill
+be33e1428d9d1da5f436744bcdd9ccf7|GRBP6S|00|0|Robotech : Battlecry
+cd48d2eea3103e5bd6f1d154937199c0|GRBE6S|00|0|Robotech: Battlecry
+befbc956176da84f6b30c23c0a221713|GZQE7D|00|0|Robots
+1f48b48587f9870a5e807bb4e38134e8|GZQP7D|00|0|Robots
+12c23048ab2a91d9c5e194e7766820da|GBQE78|00|0|Rocket Power: Beach Bandits
+470005ff8a5591220ac64ecee325728e|GREJ08|01|0|RockMan EXE Transmission
+65134582e63c2aefb9bd01eedd3b2453|GXRJ08|00|0|Rockman X: Command Mission
+c4c09035a2c19c810e1d2374c0322e39|GRKE41|00|0|Rocky
+de8229f9a6d08290708a9372da899eef|GRKP7G|00|0|Rocky
+7c2792b3e196cd312f35dc8ca41a9fe8|GP9E7F|00|0|Rogue Ops
+9b38131fa1869eb30120f08c5501bd4a|GP9P7F|01|0|Rogue Ops
+257cef6900c7c886a9617c3521247507|GRRE78|00|0|Rugrats: Royal Ransom
+6360d68c74e1aabcb46649d54a4fc308|GRNJCQ|00|0|Rune
+6659a52d5f293e76f02a9a363c1ab099|GR2JCQ|00|0|Rune II: Koruten no Kagi no Himitsu
+180a1e9789864dcede6a166a0cc262d6|GJCP8P|00|0|Samurai Jack: The Shadow of Aku
+c2a43d76d4d8b3beeb604d74e5458a66|GJCE8P|00|0|Samurai Jack: The Shadow of Aku
+7416adc649f6f831501acc232c92958a|GKUE9G|00|0|Scaler
+6dca7f5ed6b400c8216526107e83f3cd|GIHE78|01|0|Scooby-Doo!  Night of 100 Frights
+db7ce894e31f45b9cede204fb0ac6dfa|GIHP78|00|0|Scooby-Doo!  Night of 100 Frights
+bda091b76e492271bbcf0fa030768ebe|GIHD78|00|0|Scooby-Doo!  Night of 100 Frights
+6f078c687c81e26b8e81127ba4b747ba|GIHE78|00|0|Scooby-Doo!  Night of 100 Frights
+d51dda17ebb0725db3f962ee4b4dd560|G5DE78|00|0|Scooby-Doo! - Unmasked
+1a04ff3ddd293329ccba164a99d29da7|GC3E78|00|0|Scooby-Doo!: Mystery Mayhem
+749da2151fca95e299722938014bb134|GC3F78|00|0|Scooby-Doo!: Mystery Mayhem
+5423bdc41509eeaeba054e0ab641e099|GC3D78|00|0|Scooby-Doo!: Mystery Mayhem
+cbe0951ad0852fa269a3435c859d325d|PGPJB2|00|0|SD Gundam Trial
+af890c5b7649fd4e0993f23bdc3fb809|GJZP52|00|0|SeaWorld Adventure Parks: Shamu's Deep Sea Adventures
+cfc11a29905bf15c353c4c040f878525|GJZE52|00|0|SeaWorld Adventure Parks: Shamu's Deep Sea Adventures
+c22fe0894d76d8a81a11cd75c8d7b4f9|GISP36|00|0|Second Sight
+9c14c0e39cdb9166999e49fc1ef44fd8|GISE36|00|0|Second Sight
+2e54ab0d13f9eb085d01dc3b2f0da0e8|GSSP70|00|0|Sega Soccer Slam
+554d45dcd3cbfb69a602ba8e2cbf01e7|GSSJ8P|00|0|Sega Soccer Slam
+9c1b0c55e9bd9c69cbb5bc3fc0034d4c|GSSE8P|00|0|Sega Soccer Slam
+82050b101e49e36519d46774f7521672|G3BP9G|00|0|Serious Sam: Next Encounter
+9d8573fdfa6a958f20c98038e80970aa|G3BE9G|00|0|Serious Sam: Next Encounter
+c93225c1a4f1fa4aad5d1dd330293c1a|GUPP8P|00|0|Shadow the Hedgehog
+dfb476c117536bbb1a1e1c103fb65216|GUPJ8P|00|0|Shadow the Hedgehog
+fc936c9b0144c925b45b805fd39da2ac|GUPE8P|00|0|Shadow the Hedgehog
+4087c0ad7788da4c972f505fb1e44948|GSEJB2|01|0|Shaman King: Soul Fight
+67057116ccae845380195d03c54adb21|G9TJC0|00|0|Shark Tale
+54a3acaf1de5bb99e0108e69f59450f6|G9TI52|00|0|Shark Tale
+09b59ad1d5a804c8a8b86dcfc1ca9aa5|G9TD52|00|0|Shark Tale
+e0d52f0670ae6b800dc522a8d66c097d|G9TE52|00|0|Shark Tale
+b2a68f49a30b00ec46c23dd4979a30e8|G9TP52|00|0|Shark Tale
+b5a94f957590db8406901f24db445ddd|GEVJ0M|00|0|Shinki Sekai Evolutia
+bb5a789fd7fb81f17da2ff2f88eed23c|GOPEB2|00|0|Shonen Jump's One Piece: Grand Battle
+844efce2d2a3f7d73793cda69b589eb9|GIPEAF|00|0|Shonen Jump's One Piece: Pirates Carnival
+f7cea1dcdaf9688266d2b4e49d5cb8bb|G3RD52|00|0|Shrek 2
+27b4fa5dbe919fbcdf60a5e77cf08309|G3RE52|00|0|Shrek 2
+8191fee2d38ba9581f662a707af0b5e5|G3RF52|00|0|Shrek 2
+10b1b5ea73da563f92dd7104182f4c5d|GS9E6S|00|0|Shrek Extra Large
+75a08b381f0a6bf815adeb69883c3c54|GS9P6S|00|0|Shrek Extra Large
+110f717a1a6229a530005ad9cd26253b|G4IE52|00|0|Shrek Smash n' Crash Racing
+56f8c5dc4096396adb6cd7e5ab8ba5aa|G4IP52|00|0|Shrek Smash n' Crash Racing
+ebba8aebda5b68c144c14800ecc3343b|G3YX52|00|0|Shrek Super Slam
+0b82f430bcf48b84819e2e4b676444d3|G3YP52|00|0|Shrek Super Slam
+8ed80aa6e2410b595ca2e8884b32db3b|G3YY52|00|0|Shrek Super Slam
+54da19f15ce0fc1f6bad3587e5144e6d|G2RE52|00|0|Shrek SuperSlam
+c2e91e244cd30bd717a4d203dece1976|GSYE6S|00|0|Shrek: Super Party
+1ec9e9ca710e745e98726f6e65031323|GSYP6S|00|0|Shrek: Super Party
+3e7fa5033c4a2704434fb6ba98195ecd|GEAE8P|00|0|Skies of Arcadia Legends
+b27ae90ff97ad3af42d57dba6408d5dd|GSDEAF|00|0|Smashing Drive
+0384b0a39e4c2775276979705e0ccb7d|GSRP7S|00|0|Smuggler's Run: Warzones
+ff14e6bc242bb413ecb24773fa8018fa|GSRE7S|00|0|Smuggler's Run: Warzones
+46c84273d5cd803715988a33ca3e5664|GSNP8P|00|0|Sonic Adventure 2: Battle
+caab090aca184c21784330665896eeed|GSBJ8P|00|0|Sonic Adventure 2: Battle
+9ef5fadf4b8756af820df997468a5a16|GSNE8P|00|0|Sonic Adventure 2: Battle
+33a86929c71dcb0cab980121379eb5de|GASJ8P|00|0|Sonic Adventure DX
+2136ed4b6a27dc64066c8a689918dce0|GXSP8P|00|0|Sonic Adventure DX: Director's Cut
+b5d979135826338fa0d90d40f907c9b2|GXSE8P|00|0|Sonic Adventure DX: Director's Cut
+8459bdd0dc20003830481ed00dbae626|RELSAB|00|0|Sonic Adventure DX: Director's Cut (Preview Prototype)
+169f373fa74d5a3c0329c405a0c4faae|GASE8P|00|0|Sonic Adventure DX: Director's Cut (Review Prototype)
+236c641cfe9bc0b489345102c558c135|G2XJ8P|00|0|Sonic Gems Collection
+f72b3b462e3c26a2d3a9fbbadaf79c6e|G2XE8P|00|0|Sonic Gems Collection
+4f1c8baf18a46811e54c39157c1e5621|G2XP8P|00|0|Sonic Gems Collection
+45bf89bc3455c84c6eb54fbb41ad5287|G9SP8P|00|0|Sonic Heroes
+f52de0b95c82de9d1974cedd1f185488|G9SJ8P|00|0|Sonic Heroes
+b8c74bdcebb29eadd8b9a6c7e1899216|G9SE8P|00|0|Sonic Heroes
+0261d1b772152f35123cb6b5651c454f|GSOP8P|00|0|Sonic Mega Collection
+37fff656fc04f4f4719690d8eebd73f3|GSOJ8P|00|0|Sonic Mega Collection
+85a525df1481d0ad67d8761f832dca12|GSOE8P|00|0|Sonic Mega Collection
+7eb29658744208dd505227bd8d3d6126|GXEJ8P|00|0|Sonic Riders
+f6f2f170702c3de8b50f9d8ecdb308a9|GXEP8P|00|0|Sonic Riders
+80155de587c0233e39ab545c2e771749|GXEE8P|00|0|Sonic Riders
+0c8ec93f3f4f4e00d5a46443225c169c|GRSEAF|00|0|SoulCalibur II
+9d9ca74dca5d850e2da6a4559a391524|GRSPAF|00|0|SoulCalibur II
+897837b3f2e4e1f8fbcbdac9dabc31d4|GRSJAF|01|0|SoulCalibur II
+b87430184cd450b2b21ac005fd0c904e|GIJEFP|00|0|Space Raiders
+ce5c331cea9cd294ab8952a7c4b57720|GWAP8P|00|0|Spartan Total Warrior
+c29477217c58261532c8df9bd2fad139|GWAD8P|00|0|Spartan Total Warrior
+4f525e62a939ab1187083621cd0ed662|GWAF8P|00|0|Spartan Total Warrior
+76c35516a148f5e221ad0c55b6f6345f|GWAE8P|00|0|Spartan Total Warrior
+14fc76a34700adaede628521a8956cbf|GPWEAF|00|0|Spawn: Armageddon
+bdc8d65ef01c2710f0470421f13e4170|GPWPAF|00|0|Spawn: Armageddon
+5bba141dcecf34e8891322b91d6bd377|GDCE51|00|0|Speed Kings
+f64268ee24cddb9573152a620588fe37|GDCP51|00|0|Speed Kings
+4e635d238507f1898b40bd7ab0491155|GXPE78|00|0|Sphinx and the Cursed Mummy
+dcc0b76b0045a6f63e5b0387e314acae|GXPP78|00|0|Sphinx and the Cursed Mummy
+ca4f9c0e234fdb373cd92082b5d1e7d0|GSMD52|00|0|Spider-Man
+f197f77296a52e123e23d48495c6dc2c|GSMF52|00|0|Spider-Man
+03bd5fc248b055381580912cdb076e7a|GSMP52|00|0|Spider-Man
+a2762a6acc32d4e523ac6848589cc147|GK2E52|00|0|Spider-Man 2
+69be60e45eb86d6ae1e4acaf90541228|GK2D52|00|0|Spider-Man 2
+ddaf3e01678474020afbaa4d00bfe1b1|GK2P52|00|0|Spider-Man 2
+64dd25e8bb2f5799a74f80892694659e|GK2F52|00|0|Spider-Man 2
+3adc8c214b6eb3e21e9b407b7657eff7|GSME52|00|0|Spider-Man: The Movie
+7cb6e2ad23e86b05ef50529f19d15b8b|G2PE6U|00|0|Spirits And Spells
+cd1e06f9ca333957b1dcd8dc2dfc7c64|GNOX78|00|0|Spongebob Squarepants & Friends: Unite!
+d4eea40e3ed3140dd6c747042a1cfb15|GGVD78|00|0|Spongebob Squarepants : The Movie
+5c8a6eeeb849e20c59bc245a56d4f174|GGVX78|00|0|Spongebob Squarepants : The Movie
+9e18f9a0032c4f3092945dc38a6517d3|GQPE78|00|0|SpongeBob SquarePants: Battle for Bikini Bottom
+f85c0da977ef6679de67d2d5532f9d23|GQPP78|00|0|SpongeBob Squarepants: Battle For Bikini Bottom
+715464b04132ce5567802f64ad6d3aef|GQ4E78|00|0|SpongeBob SquarePants: Creature from the Krusty Krab
+62348380609818f7c8d04fef5d5d1459|GQ4F78|00|0|SpongeBob SquarePants: Creature from the Krusty Krab
+10b725bed9a3be326a776db800682b47|GQ4P78|00|0|SpongeBob SquarePants: Creature from the Krusty Krab
+4e8e084fbe32a7635eca6c3e5fb008de|GQQH78|00|0|SpongeBob SquarePants: Lights, Camera, Pants!
+2c5d625bba29d8b1240430b383847b15|GQQE78|00|0|SpongeBob SquarePants: Lights, Camera, Pants!
+5d427a5024414e042f1a2d7f8ee2410e|GQQF78|00|0|SpongeBob SquarePants: Lights, Camera, PANTS!
+c8ee914aad66ed1ba191f719b57c62c4|GQQD78|00|0|SpongeBob SquarePants: Lights, Camera, PANTS!
+e023a779e54d753f264c030a5c44868c|GSQP78|00|0|SpongeBob SquarePants: Revenge of the Flying Dutchman
+30b0601c43c4ee30b7498427c2aa70f5|GSQE78|00|0|SpongeBob SquarePants: Revenge of the Flying Dutchman
+62bc84bfcad66e8d24f83873b247b628|GGVP78|00|0|Spongebob Squarepants: The Movie
+9fbad7186b2168190082a54fa20d63b7|GGVE78|00|0|SpongeBob SquarePants: The Movie
+676d15ca76fb94e13b3583a39400f673|GSHE5D|00|0|SpyHunter
+3335dc9efc3b0da58572ca3f77c529fa|GSHP5D|00|0|SpyHunter
+dad9e57a1da344a7354a4b3276558eb1|G5SE7D|00|0|Spyro: A Hero's Tail
+f007472216f3cc10ab68d991f441216c|G5SP7D|00|0|Spyro: A Hero's Tail
+b6d438d5f29577d356f6214b5277f1e6|GS8E7D|00|0|Spyro: Enter the Dragonfly
+f50e631c014b968d707d839a4afd69c5|GS8P7D|00|0|Spyro: Enter the Dragonfly
+087a5a59d976b0843ab5917df38d0b45|GXBP69|00|0|SSX 3
+fb6ce25daf8550dae472b8d84596acc1|GXBE69|00|0|SSX 3
+3eb9a702b5a42f81222ea47ae0c6cef0|GXOE69|00|0|SSX on Tour
+733ddb87d8c86f1b85d54286757ae9f7|GXOP69|00|0|SSX On Tour
+47c64f8e60ecd70161b772adb7f25109|GSTE69|00|0|SSX Tricky
+54cabb3c41f91af0134e761a980b7da8|GSTP69|00|0|SSX Tricky
+a55aef0762adcc91552dfb6bc97a6b9f|GSAP01|01|0|Star Fox Adventures
+afb0306454b581e37a62170fdfd1de09|GSAE01|00|0|Star Fox Adventures
+3ea71068b7b02a362fe31353a52b8da9|GSAP01|00|0|Star Fox Adventures
+969adb11a3e840745c3705a02dab24b5|GSAE01|01|0|Star Fox Adventures
+992e00b7df1960d4ca03c76801502f91|GF7E01|00|0|Star Fox: Assault
+d5ccf1f7241ea4e8188d2b3d1401368e|GBWD64|00|0|Star Wars Bounty Hunter
+5b5a0708869117a885ffea967992da1a|GBWS64|00|0|Star Wars Bounty Hunter
+0c13af64ecacefcb40064b18e3124af8|GBWP64|00|0|Star Wars Bounty Hunter
+c405b9cc619166253235bcdd06d84a9a|GBWF64|00|0|Star Wars Bounty Hunter
+1e1fa515cda90e433c4a1862a4f3d73d|GBWE64|00|0|Star Wars Bounty Hunter
+913d7bb99bb2b6f6bbf28298287fc19e|GJKF52|00|0|Star Wars Jedi Knight II: Jedi Outcast
+09262abbd032a0ed9e7f7d390b2f07a8|GJKE52|00|0|Star Wars Jedi Knight II: Jedi Outcast
+b396c281feec034c2357390d899ef475|GJKP52|00|0|Star Wars Jedi Knight II: Jedi Outcast
+e5b9cc8834dd557937040dcabe6182b7|GJKD52|00|0|Star Wars Jedi Knight II: Jedi Outcast
+fe32765ce6fcbb67ffd9e6f63d09cae0|GSWD64|00|0|Star Wars Rogue Leader: Rogue Squadron II
+bb7eebbbb11fc8dc97f483a4dc3382cc|GSWS64|00|0|Star Wars Rogue Leader: Rogue Squadron II
+0bf391bee90da09d6042016d23e7a9b1|GSWE64|00|0|Star Wars Rogue Squadron II: Rogue Leader
+15c49ff1dc836d19a1f275ac46ef4398|GSWP64|00|0|Star Wars Rogue Squadron II: Rogue Leader
+776a1046f8c47d7aad0cd732b53587ca|GSWF64|00|0|Star Wars Rogue Squadron II: Rogue Leader
+a5dafb41f04ac4ac279687c9ec53533d|GSWI64|00|0|Star Wars Rogue Squadron II: Rogue Leader
+4e2e2806303314bda2cd989a86358653|GLRP64|00|0|Star Wars Rogue Squadron III: Rebel Strike
+955f45a43abf1017b6ddf5b1a4e3ed4e|GLRF64|00|0|Star Wars Rogue Squadron III: Rebel Strike
+47625f0b0b4b0a5f9ae2308144e32465|GLRD64|00|0|Star Wars Rogue Squadron III: Rebel Strike
+a7e88ee9209080785c4923b571cc1936|GLRE64|00|0|Star Wars Rogue Squadron III: Rebel Strike
+7ae2720a0984e16489e2f049c224fe71|DLSP64|00|0|Star Wars: Rogue Squadron III: Rebel Strike: Limited Edition Bonus Disc (Demo)
+236088fbf738089f5af43cafc360720a|DLSE64|00|0|Star Wars: Rogue Squadron III: Rebel Strike: Limited Edition Bonus Disc (Demo)
+f9025a00b50cb231c27373cf297b8799|GSXE64|00|0|Star Wars: The Clone Wars
+20fc62f465ba2befa6c3b8c164372f6f|GSXS64|00|0|Star Wars: The Clone Wars
+dd55d3ead90afe85f63b8c40fe8761bb|GSXP64|00|0|Star Wars: The Clone Wars
+07d63b09ccfa46b6e07559287af41bbb|GSXD64|00|0|Star Wars: The Clone Wars
+bf06942c75ce10b35a7bde61691dc3ca|GSXF64|00|0|Star Wars: The Clone Wars
+ebff34930b3e8846167047bf71d25fbc|GSAJ01|01|0|StarFox Adventures
+fe5246a097987645e061e04f6da807e6|GSAJ01|00|0|StarFox Adventures
+c242016a80d6edbd6c04a67f315ee493|GT5E7N|00|0|Starsky & Hutch
+41a62d8e258b124b3d51a75d4adf1df5|GT5P7N|00|0|Starsky & Hutch
+44ed8269e1850bbe099b5b7911dcdfba|GHPE52|00|0|Street Hoops
+4d9c85203f6cdb4bd8c92415d812728a|GCSPAF|00|0|Street Racing Syndicate
+548dda53207aff4f16b1942ad62fe812|GCSEAF|00|0|Street Racing Syndicate
+592aa62ab70f087df705ffed4b621454|G5BE4Z|00|0|Strike Force Bowling
+56be1ff99350a84fe52476e8704e8fab|GS2P78|00|0|Summoner: A Goddess Reborn
+8067dc66f5da7126a7777c1a3beb616e|GS2E78|00|0|Summoner: A Goddess Reborn
+9aa169191026034c95f807447236a25b|GS2D78|00|0|Summoner: A Goddess Reborn
+0daa6547ae3ad0fa28f0ca2b04d6a909|GBYE0A|00|0|Super Bubble Pop
+928b003d30952ef6bf0f6f496413f3c3|GVMP41|00|0|Super Bust-A-Move All Stars
+8788cfdf60258c975fcb8632eb295f58|G4QE01|00|0|Super Mario Strikers
+3b07a4bb22db926b177e207f9d7f0d87|GMSJ01|00|0|Super Mario Sunshine
+72c4860d8555d5e790628e348abc244d|GMSP01|00|0|Super Mario Sunshine
+0c6d2edae9fdf40dfc410ff1623e4119|GMSE01|00|0|Super Mario Sunshine
+527f5186b24a3f1f04f5f12c4df560c5|GMBJ8P|00|0|Super Monkey Ball
+391b8e620d8d924f150dc40343ced8a5|GMBE8P|00|0|Super Monkey Ball
+5cf514fe9e3d1b0d601c1189af1b844f|GMBP8P|00|0|Super Monkey Ball
+bdda137a7a73b0214c61deb14288de70|GM2J8P|00|0|Super Monkey Ball 2
+4dfd33540b3b6c7ae742a9e4c1ba3692|GM2P8P|00|0|Super Monkey Ball 2
+29dd871cf4a00b2455c9d03e9328e7bd|GM2E8P|00|0|Super Monkey Ball 2
+90322c7821baf92bee9ab54b0a7d8f47|G3LE8P|00|0|Super Monkey Ball Adventure
+e7094d70e1df2cf104b7aa590945aa52|GRWJD9|00|0|Super Robot Taisen GC
+3a62f8d10fd210d4928ad37e3816e33c|GALE01|00|0|Super Smash Bros. Melee
+0e63d4223b01d9aba596259dc155a174|GALE01|02|0|Super Smash Bros. Melee
+67136bd167b471e0ad72e98d10cf4356|GALE01|01|0|Super Smash Bros. Melee
+5e118fc2d85350b7b092d0192bfb0f1a|GALP01|00|0|Super Smash Bros. Melee
+208722aa0338c2e540a0bbcda6053bf7|GSUP70|00|0|Superman: Shadow of Apokolips
+3c8d06224e42e584465b90ea7bbda090|GSUE70|00|0|Superman: Shadow of Apokolips
+800ee6b1e25870455150f384fb000064|GXUE41|00|0|Surf's Up
+5f34224d2a93070e7c9d68b819610f4d|GWGE4F|00|0|Swingerz Golf
+7b9dbf456858458f45687ab15f95ff16|GS3P51|00|0|SX Superstar
+730b0308cd2f94302130f449202bdaeb|GS3E51|00|0|SX Superstar
+4072bd6d33c57a8a3016c8358fef05b1|G2FF78|00|0|Tak 2: The Staff of Dreams
+0d9a7c74d1ff98dd5ad867bd67377bb1|G2FE78|00|0|Tak 2: The Staff of Dreams
+929849c06e20d1799c371c162a373c03|G2FP78|00|0|Tak 2: The Staff of Dreams
+62c2605ce1c60b37321a17758eccb289|GJUE78|00|0|Tak and the Power of Juju
+bd3b8bb5a61fa602216a12f98716438b|GJUF78|00|0|Tak and the Power of JuJu
+ab59ed481ce1514b38f487a6c84a3a5c|GJUD78|00|0|Tak and the Power of JuJu
+5e2faa6803cf221f587d6c11d5e325cc|GJUP78|00|0|Tak and the Power of JuJu
+92c8f09bdcfdf9c9aa50d73374403a08|GJWP78|00|0|Tak: The Great JuJu Challenge
+f27af4f1b85c7e1fd8f13abbc8f920a1|GJWE78|00|0|Tak: The Great JuJu Challenge
+a427c43797ab0ad5c024014142d1c3e1|GQSEAF|00|1|Tales of Symphonia
+a005a10a69a164f32d9d88aae8013ecf|GTOJAF|00|1|Tales of Symphonia
+fc4caeaa8bafba662abb400de9c97579|GQSDAF|00|1|Tales of Symphonia
+1078706dc88043ba6e7ab1a9aa708b32|GQSEAF|00|2|Tales of Symphonia
+25469c4b5d39670c99e31546031c8d58|GQSSAF|00|2|Tales of Symphonia
+fb96c11a1b3bed38942de37a5b6a72ea|GTOJAF|00|2|Tales of Symphonia
+83b3d38e342cd2a026b671908ed43574|GQSFAF|00|2|Tales of Symphonia
+ee81ac0afdca6d3930cad14370cbea75|GQSPAF|00|2|Tales of Symphonia
+97ce6f8eab0272e7bbdc71dc96c6651a|GQSDAF|00|2|Tales of Symphonia
+057dd0466cfcd64957a880e212180d3b|GQSFAF|00|1|Tales of Symphonia
+20d47d6b39446c64d877439b372d2e44|GQSSAF|00|1|Tales of Symphonia
+a797655b74d8218d5f0c8229f393ab60|GQSPAF|00|1|Tales of Symphonia
+fbd0cd21a89fde6338cef789c9dab039|GTZP41|00|0|Tarzan Freeride
+b39c6f3e9c0613b3de67344e98a820be|GTZE41|00|0|Tarzan Untamed
+029dfab32a3e3f360bbb902dcc1f1320|GTWE70|00|0|Taz Wanted
+68c1e1a0657cd09994454ce4c2ec029a|GTWP70|00|0|Taz Wanted
+2a5f7650d7026f4c6ef8249caaa3374a|G6TE5G|00|0|Teen Titans
+8e742678cba3a5b2ac643fc2a80d9ea2|GTFPA4|00|0|Teenage Mutant Ninja Turtles
+08ec942b06ab6cdefad9b7ad6ccbc64a|GTFEA4|00|0|Teenage Mutant Ninja Turtles
+a178801d131efcfcaee327e1521c3ba3|GNIPA4|00|1|Teenage Mutant Ninja Turtles 2: Battle Nexus
+b64c44d3d2d6fe664343ee9ba0b71013|GNIPA4|00|2|Teenage Mutant Ninja Turtles 2: Battle Nexus
+88532ad2719be508171d6ffa3f2703b4|GNIEA4|00|2|Teenage Mutant Ninja Turtles 2: Battle Nexus
+78226fcfb3b12090a6d06e9754ab2262|GNIEA4|00|1|Teenage Mutant Ninja Turtles 2: Battle Nexus
+3c9e9444ab263f618c5262c4897e719d|G3QEA4|00|2|Teenage Mutant Ninja Turtles 3: Mutant Nightmare
+e0f2f0add9bbc2f7277470f6ddf6304e|G3QEA4|00|1|Teenage Mutant Ninja Turtles 3: Mutant Nightmare
+22cd3e745261d294b1cbd27eda0ca1cc|GT6P70|00|0|Terminator 3: The Redemption
+57cbc56c20c1c832856eebcf3291522d|GT6E70|00|0|Terminator 3: The Redemption
+5320cb95e693c1f4552a8f9f3bd1fdc0|GTRE78|01|0|Tetris Worlds
+2419912f5dbd7c7cfd6c1914fe764e92|GTRP78|00|0|Tetris Worlds
+3ebba6487c94fbe1a63f5caa4014958f|GAXE5D|00|0|The Ant Bully
+836c0290c215c76c597b05521895775b|GLVE4Q|00|0|The Chronicles of Narnia: The Lion Witch and the Wardrobe
+dd5dcfe9e2cd25bae2786aa5f2a5bba3|GLVD4Q|00|0|The Chronicles of Narnia: The Lion Witch and the Wardrobe
+9b10b18ec72a18d091704e424ea75110|GLVP4Q|00|0|The Chronicles of Narnia: The Lion Witch and the Wardrobe
+47b65f51bd92a1f675120e332c232169|GLVF4Q|00|0|The Chronicles of Narnia: The Lion Witch and the Wardrobe
+949e22308c8d269245f1fc66076fbeea|GFOE78|00|0|The Fairly OddParents - Shadow Showdown
+b5052ea184d3b725473e503b66d485ea|GFWE78|00|0|The Fairly OddParents: Breakin' Da Rules
+4a1d6c9ac138932e5a6486f49297a007|GGNE5D|00|0|The Grim Adventures of Billy and Mandy
+2082f0d43283addaa4c7cb4fa22aed6f|GHYE6S|00|0|The Haunted Mansion
+2b23db4fbec38938018bc9ae2fa8336e|GHBE7D|00|0|The Hobbit
+081a2f65a0aaf3377cb28eb2adcd82bf|GHBP7D|00|0|The Hobbit
+4767706623aaf8191298200eb8f7d5b5|GHUP7D|00|0|The Incredible Hulk Ultimate Destruction
+0098a2aa4913fd9a7091dc4f5879101d|GHUE7D|00|0|The Incredible Hulk: Ultimate Destruction
+8a7c0f17f840793c19d0fe608ed59528|GICE78|00|0|The Incredibles
+b982c00f57f7000297d55aa3cac57ba0|GICP78|00|0|The Incredibles
+ddbffc0eded125cc964643700ef2bd61|GICF78|00|0|The Incredibles
+102a3dc6504152fa77e94744327a5781|GICH78|00|0|The Incredibles
+dca559bfb0312a0de268480449068358|GICD78|00|0|The Incredibles
+776efc70a57fb62e2dc77f011f870473|GIQE78|00|0|The Incredibles: Rise of the Underminer
+c54ce84a91f3bbed61e56204fdc87e1f|GIQX78|00|0|The Incredibles: Rise of the Underminer
+9d35107bd340e65a047df0635e7e730b|GIQY78|00|0|The Incredibles: Rise of the Underminer
+405a3159b34aa88fb483567413f06295|GIBP4F|00|0|The Italian Job
+e8bac2fd2e6da9eb244bdd591b8ef32a|GIBE4F|00|0|The Italian Job
+652a91ff450633d2e1fd2eb7bfdd3571|G6SE7D|00|0|The Legend of Spyro: A New Beginning
+6f68a94ff9c4c0c1648416983e2e381d|G6SP7D|00|0|The Legend of Spyro: A New Beginning
+2c66f072455ccdbe97a72e5c94784df8|PZLE01|00|0|The Legend of Zelda: Collector's Edition
+1c9fa0c8adc9584e5169d4cfb51425f3|PZLP01|00|0|The Legend of Zelda: Collector's Edition
+6156867bd3aa2fc410e9e307fe0fd98c|G4SE01|00|0|The Legend of Zelda: Four Swords Adventures
+a8665e36c64c2369628aabef6b268c42|G4SP01|00|0|The Legend of Zelda: Four Swords Adventures
+1e23afc69bff50a7d20f32c5b739dc06|D43E01|00|0|The Legend of Zelda: Ocarina of Time / Master Quest
+79b9e6e503e867c7d5cfb46a56d34034|D43W01|00|0|The Legend of Zelda: Ocarina of Time / Master Quest
+9841cc876fb7be6c61ead51deeabf280|GZLP01|00|0|The Legend of Zelda: The Wind Waker
+0037016b197dec26e4076db20e6aba4c|GZLE01|48|0|The Legend of Zelda: The Wind Waker
+d8e4d45af2032a081a0f446384e9261b|GZLE01|00|0|The Legend of Zelda: The Wind Waker
+f9c47b0c8a34d345c06061f24e0db277|GZ2P01|00|0|The Legend of Zelda: Twilight Princess
+41deff9b1fd2831f48fbfa2dd1054e4d|GZ2E01|00|0|The Legend of Zelda: Twilight Princess
+24659b841122e95a9ba28dd06862fb79|GKLI69|00|0|The Lord of the Rings: The Return of the King
+623e3d80bd885823573ae22b319f96e0|GKLE69|00|0|The Lord of the Rings: The Return of the King
+7826cbe142afd44997649a646cecb1db|GKLD69|00|0|The Lord of the Rings: The Return of the King
+c5ace0a8144d2eb05fa50bdcc293040a|GKLP69|00|0|The Lord of the Rings: The Return of the King
+e36af70dbc8d6710b9e63651285bb158|GKLS69|00|0|The Lord of the Rings: The Return of the King
+eb63139c3c80a61a801faf6350221726|G3AF69|00|1|The Lord of the Rings: The Third Age
+03f20fe0baa698d2ff463a9211e67d06|G3AS69|00|2|The Lord of the Rings: The Third Age
+0d8989d1d358af77ca2dccdb049d773f|G3AD69|00|1|The Lord of the Rings: The Third Age
+7138d44e060bc3621817b044ea64ae9a|G3AS69|00|1|The Lord of the Rings: The Third Age
+87884ec09614bff4813f506470f97d06|G3AE69|00|1|The Lord of the Rings: The Third Age
+c7f407d6beacd2601c6594acf5235b69|G3AP69|00|1|The Lord of the Rings: The Third Age
+8cff44cd0bbaa022e58dbb991460f592|G3AE69|00|2|The Lord of the Rings: The Third Age
+78855eb17863e7369c2c0583c2d86e4d|G3AD69|00|2|The Lord of the Rings: The Third Age
+889f65d01c6741d77f74b9e3ad4b887a|G3AP69|00|2|The Lord of the Rings: The Third Age
+a9f322857d3c300a0408a10957663aa0|G3AF69|00|2|The Lord of the Rings: The Third Age
+f98d2c0f6fe053e8bfcdb5ee9e2c5731|GLOI69|00|0|The Lord of the Rings: The Two Towers
+bc12ace28720323a9b9c7b3a85347c82|GLOP69|00|0|The Lord of the Rings: The Two Towers
+f58b95bf1c52a4f17653ee208a37b688|GLOF69|00|0|The Lord of the Rings: The Two Towers
+5a5a0b7e7b082701a20b2f0f2472397e|GLOE69|00|0|The Lord of the Rings: The Two Towers
+9e516d61afea913a900c9ca3080ffe3b|GLOD69|00|0|The Lord of the Rings: The Two Towers
+ecad1abccc9cae1f510a0bb5cc4f62b3|GP3E78|00|0|The Polar Express
+87ad1d6d255ee4f6025aa3a9457f325e|GP3P78|00|0|The Polar Express
+44ff7a3e8a06d600c40d2653266e0903|GPQP6L|00|0|The Powerpuff Girls: Relish Rampage
+6629910122450bd7953936122ea92711|GPQE6L|00|0|The Powerpuff Girls: Relish Rampage
+d4cb61cbe9a31a818ef666e520b165dd|GSKP7D|00|0|The Scorpion King : Rise of the Akkadian
+87c847b9c241e6d66b97378b7be38c95|GSKE7D|00|0|The Scorpion King: Rise of the Akkadian
+f9a01088d2bac7e48af3b69f63f62174|GHQP7D|00|0|The Simpsons: Hit & Run
+1e40a2405da61fa5ea7f2487a99439ea|GHQE7D|00|0|The Simpsons: Hit & Run
+8a34b24c0b7f659f361887c7cae65dc9|GSPP69|00|0|The Simpsons: Road Rage
+6afdecc1d7414ae277ae981167150265|GSPE69|00|0|The Simpsons: Road Rage
+64d50e63a62241779b379fda4136acaa|GCIP69|00|0|The Sims
+554d552c82fb423caeb0e98e7d8c7650|GCIE69|00|0|The Sims
+ab75f91fcd50f76fcaf184d89beb7270|G4ZP69|00|0|The Sims 2
+dc5038fa00bcf4a7c507cd6a92fb3429|G4ZE69|00|0|The Sims 2
+85cd1905195458ac93f07fa9fe836302|G4OP69|00|0|The Sims 2 : Pets
+f3f5b13600ae780e042a8dc7b4106751|G4OE69|00|0|The Sims 2 : Pets
+ed9dd7a0bdbb2057a0b3c1b771129769|G4ME69|00|0|The Sims Bustin' Out
+5a1bac829b877003eaf0752dc4dd1acc|G4MP69|00|0|The Sims: Bustin' Out
+a665b11c4448646e3fc8ef3e0a14506d|GUBP69|00|0|The Urbz: Sims In The City
+769774f4cc8849ad9aee8124db2b02ab|GUBE69|00|0|The Urbz: Sims in the City
+5640fd7df180d5b11b6f3631588e5232|G6WP69|00|0|Tiger Woods PGA Tour 06
+89215c25d3bb7521eec659a37d337cd0|G6WE69|00|0|Tiger Woods PGA Tour 06
+306eacdb0252d8958122d8f303ecfa65|GTIE69|00|0|Tiger Woods PGA Tour 2003
+9e9f78c32ca554bf849c8e24a58006bb|GTIP69|00|0|Tiger Woods PGA Tour 2003
+4df313d253f54222944f382ece74ef81|GW4E69|00|2|Tiger Woods PGA Tour 2004
+95fd974f151c4a48fd65e3f8c8158419|GW4P69|01|2|Tiger Woods PGA Tour 2004
+81ba9b53904348a25db2ee0ae46d3b6c|GW4E69|00|1|Tiger Woods PGA Tour 2004
+2ae87a7103e8d24bd66c7908b455a863|GW4P69|00|1|Tiger Woods PGA Tour 2004
+a53ee73d2a01bb136b5cc52703c8e228|GW4P69|00|2|Tiger Woods PGA Tour 2004
+dc8a8164e37cb0bafd982a4d30946e8a|GW4P69|01|1|Tiger Woods PGA Tour 2004
+4844db86d886cbef5b50d251e1ebd32b|G5TP69|00|2|Tiger Woods PGA Tour 2005
+496078910fafd1f2559891ade036ea70|G5TP69|00|1|Tiger Woods PGA Tour 2005
+265e41ea68cf1f94034c4d566fe9c2c7|G5TE69|00|1|Tiger Woods PGA Tour 2005
+01873f3420bebcafbf8f70e1a78a4633|G5TE69|00|2|Tiger Woods PGA Tour 2005
+f1a546493a43a75513f842e0e55e51db|GTSP4F|00|0|TimeSplitters 2
+6732fb668e1203fbda42b5bbf1fa9f34|GTSE4F|00|0|TimeSplitters 2
+ac610f06818ad601958de5d6f7378ab3|G3FD69|00|0|TimeSplitters: Future Perfect
+8743dfa398de3e3448febe87d75d626c|G3FP69|00|0|TimeSplitters: Future Perfect
+94bc6075a9509dae9b12f1a9c69a3141|G3FS69|00|0|TimeSplitters: Future Perfect
+af8710863bad728de9a26231d398e99b|G3FE69|00|0|TimeSplitters: Future Perfect
+0e451d7f41d5d5843fd666c6f07a8537|G3FF69|00|0|TimeSplitters: Future Perfect
+6e958c31a57777ae696941a6bddf3803|GYRP41|00|0|TMNT
+c42b49bd54bf0f0195e6cc2241d8dfeb|GYRE41|00|0|TMNT
+b17b54ae5e8efc4316e97676a9716004|GE5EA4|00|0|TMNT: Mutant Melee
+3f837a87dad6384731b1fa1dcae03466|GTJE5L|00|0|Tom & Jerry in War of the Whiskers
+14b186c3cb5224527e15ae5b7344ab11|GGRP41|00|0|Tom Clancy's Ghost Recon
+3c368791c5862a16268725c9572ba175|GGRE41|00|0|Tom Clancy's Ghost Recon
+c8f82be9d9b0470f0b12f9d4a8145c1d|GGRD41|00|0|Tom Clancy's Ghost Recon
+da413bbb96072817a6ca4193339debd1|GGYP41|00|0|Tom Clancy's Ghost Recon 2
+839f98843558879b748e9f00b06bb93a|GGYE41|00|0|Tom Clancy's Ghost Recon 2
+3fc75e64761569b55d4a500424bde572|G63E41|00|0|Tom Clancy's Rainbow Six 3
+f58d322d86316cb6bc990a453b27e598|G63P41|00|0|Tom Clancy's Rainbow Six 3
+9b75b766f28098623a8343a86c653017|GLQP41|00|0|Tom Clancy's Rainbow Six: Lockdown
+8f82f3e14e9866d2889e91e2d1e26aeb|GLQE41|00|0|Tom Clancy's Rainbow Six: Lockdown
+56c6f8a0c98e23ffbcde0e1139146001|GCEE41|00|0|Tom Clancy's Splinter Cell
+d7e09902b7e7c266c59577cb66b3c863|GCEP41|00|0|Tom Clancy's Splinter Cell
+4fe5fcdcbd423d45e754c2e8627104ec|GCJE41|00|2|Tom Clancy's Splinter Cell: Chaos Theory
+d2ff2c7ae7af806ceb63b0b52cf16296|GCJE41|00|1|Tom Clancy's Splinter Cell: Chaos Theory
+c802fcb5ae87d4a3db3678a862c09f3b|GCJP41|00|1|Tom Clancy's Splinter Cell: Chaos Theory
+d5929781448ec137c7bcb9cb24de7d2d|GWYE41|00|1|Tom Clancy's Splinter Cell: Double Agent
+b802b5ee80ad84393e2c9d6e52f34eb0|GWYX41|00|2|Tom Clancy's Splinter Cell: Double Agent
+2d9a422d651e3a201bc198c8ca7387b8|GWYX41|00|1|Tom Clancy's Splinter Cell: Double Agent
+8c55fdc926634ee9864c503a13dfbacd|GWYE41|00|2|Tom Clancy's Splinter Cell: Double Agent
+c377b2cf4ae34d593ac307737787d5b7|GT7X41|00|0|Tom Clancy's Splinter Cell: Pandora Tomorrow
+398f0a775bc1c0ba2df9725f4c2ac8ba|GT7P41|00|0|Tom Clancy's Splinter Cell: Pandora Tomorrow
+31aaed3da0f5ca647fdcfc417b3d10e8|GT7E41|00|0|Tom Clancy's Splinter Cell: Pandora Tomorrow
+7d8d67653e6eb85e8575948c93cf2b1c|G3ME41|00|0|Tom Clancy's The Sum of All Fears
+40af2a2d9295a6481a58a50ffd76d56a|GTQE6S|00|0|Tonka: Rescue Patrol
+e76efb41bb6341d7a3d670615205e07c|GWJE52|00|0|Tony Hawk's American Wasteland
+4a157077fc4a05575d9f4447bf1d8548|GH9P52|00|0|Tony Hawk's American Wasteland
+876f3f3687cc8bf29f00b723d850cb7c|GT3F52|00|0|Tony Hawk's Pro Skater 3
+ae72f487bd9f0593810195f6834156bf|GT3P52|00|0|Tony Hawk's Pro Skater 3
+8fd5510e28b32545f8f31c365e467e55|GT3E52|00|0|Tony Hawk's Pro Skater 3
+5c57d62f00d94a2e8272af3a24bd2919|GT3D52|00|0|Tony Hawk's Pro Skater 3
+578f44eb81f78d7e751d992f8965b210|GT4F52|00|0|Tony Hawk's Pro Skater 4
+bca716048c807f305c2254f0543021a9|GT4D52|00|0|Tony Hawk's Pro Skater 4
+2254d8e30f6652c392270cc57025f9a9|GT4P52|00|0|Tony Hawk's Pro Skater 4
+d2fd8eb536ba6bc3b078d02428ac9dba|GT4E52|00|0|Tony Hawk's Pro Skater 4
+3903200569bc1e4040764a45926828e7|GTDE52|00|0|Tony Hawk's Underground
+c4d092c25a5575a2f2f5763717648662|GTDP52|00|0|Tony Hawk's Underground
+1f857954e3cf9787ba4c65ebfef23e2a|G2TE52|00|0|Tony Hawk's Underground 2
+e692ebf948e5fa2d1f7a62679ef35076|G2TP52|00|0|Tony Hawk's Underground 2
+cea87ae8376b1a025d1c919e4c15384e|GTAE5S|00|0|Top Angler : Real Bass Fishing
+7f9422fd21744d54a40e100b15d74198|GTGP60|00|0|Top Gun: Combat Zones
+7af2e1c73b8f6a4ce7956813b6b95e54|GTGE60|00|0|Top Gun: Combat Zones
+1f29e5a7c273edf66f00359d85887fc3|GTVE70|00|0|Transworld Surf: Next Wave
+045e37639094d46d33e1b4ef2dcf1ffc|GG2E4Z|00|0|Trigger Man
+8208a1904e82dd8a15f9088711520225|G2CP52|00|0|True Crime: New York City
+5355a98005eb3b9116101be98da840bd|G2CE52|00|0|True Crime: New York City
+20123e6c1df395c9e63d4af9e42fa160|G2CD52|00|0|True Crime: New York City
+7a16c6a75cbc069143eea5962be2eeb1|G2CX52|00|0|True Crime: New York City
+8c05d79afbdeb97b0bb7137ffc459f61|GTLP52|00|0|True Crime: Streets of LA
+e1f8d525da59ac0bbf2bb86f8038f66e|GTLX52|00|0|True Crime: Streets of LA
+25a21ec4733cbfdec08f5f6e3f51454c|GTLE52|00|0|True Crime: Streets of LA
+17487d338dc398b7445e63e1f9b94015|GTUE8G|00|0|Tube Slider - The Championship of Future Formula
+538048a82c03bd6f8e00440e9beb851c|GTKP51|00|0|Turok Evolution
+fdef9194031884f7315015508d251b7c|GTKD51|00|0|Turok Evolution
+faed7e27740270e4184c97018b2c8b36|GTKE51|00|0|Turok Evolution
+a1ce51bc67b68cd7264e9c13ed3f4c16|GTYP69|00|0|Ty the Tasmanian Tiger
+8ab3b0df681cd40cdb9ed70b3f8346f6|GTYE69|00|0|Ty the Tasmanian Tiger
+f1bfb131500479bd6d47898003f8e3a8|GYTP69|00|0|Ty the Tasmanian Tiger 2: Bush Rescue
+1ebafa9484da7438da17401c526de12e|GYTE69|00|0|Ty the Tasmanian Tiger 2: Bush Rescue
+96b98555222f5450579af11d89a1ce3b|GIZE52|00|0|Ty the Tasmanian Tiger 3: Night of the Quinkan
+7e7101908a0b4dad8cec10caff746681|GUCF69|00|0|UEFA Champions League 2004-2005
+2dd03fdf5bf7cae2da173f36574b1876|GUCD69|00|0|UEFA Champions League 2004-2005
+8ea0a562cd55ba9dc877ae6b565f4bda|GUCP69|00|0|UEFA Champions League 2004-2005
+acde7217cc44964c08359fd25a7a121b|GUFP4Z|00|0|UFC: Throwdown
+237a4bbea6ed96b4e84998244ad0af96|GUFE4Z|00|0|Ultimate Fighting Championship Throwdown
+15c0d6d46e293b6eb8a2a543add8f81a|GKNEB2|00|0|Ultimate Muscle: Legends vs. New Generation
+0e05910842b18564a246774a3f946e20|GUTS52|00|0|Ultimate Spider-Man
+8a8b841ec64ab63c3dccae5df579758a|GUTD52|00|0|Ultimate Spider-Man
+b014cd0fd1c6048398667b4ca613520b|GUTJC0|00|0|Ultimate Spider-Man
+69bb98acf730c0a837f786af8b27b38b|GUTP52|00|0|Ultimate Spider-Man
+2fc4364cba13534eacda868311c3d6e4|GUTE52|00|0|Ultimate Spider-Man
+e2c5840c06f68a21876c1d52634d9df3|GUTI52|00|0|Ultimate Spider-Man
+cf794893821efca19b413156dee536bb|GUTF52|00|0|Ultimate Spider-Man
+8636f8a4aec34663bf80551e6d91c1f0|GUSE7F|00|0|Universal Studios Theme Park Adventure
+d991a32c4c2b212cb5a7e2781500597c|GUSP7F|00|0|Universal Studios Theme Park Adventure
+b80e5f1622f83c829205a17235a43e99|GUVP51|00|0|Urban Freestyle Soccer
+ddd092926231a913f8d5917181389a1b|GV3P70|00|0|V-Rally 3
+4198d93d1fc7a267a4ae5b78c22e8a64|GJXE51|00|0|Vexx
+1fed1adf1a9918ec4f38856216c71188|GJXP51|00|0|Vexx
+5e0eb6b53bd2fc7e79fb211cae777428|GVJJ08|00|0|Viewtiful Joe
+a1a4dd42b98207b744215e9e1140de11|GVJP08|00|0|Viewtiful Joe
+5137df30cb87ee7987bebab8c19cb994|GVJE08|00|0|Viewtiful Joe
+135ce44a440289e9a8ba6e06500615fe|G2VP08|00|0|Viewtiful Joe 2
+a699c7877262014a1aee35793a945875|G2VE08|00|0|Viewtiful Joe 2
+4ec086aa491d7623a7b75b8e898d3175|G2VJ08|00|0|Viewtiful Joe 2: Blackfilm no Nazo
+d77b3dbb6555a82feff166a40401dc7a|DVJP08|00|0|Viewtiful Joe (Promotional demo)
+34a96bc2999c05cf2812efd54870849e|DVJP08|00|0|Viewtiful Joe (Promotional demo)
+eba1f35591d9c04e8ecfbe0fab1b6d5c|GVCJ08|00|0|Viewtiful Joe: Battle Carnival
+8632b2fde4697a5fa37d11f753487ac6|GVCE08|00|0|Viewtiful Joe: Red Hot Rumble
+41dac2e1ff9d5eee1b939fac3165af2f|GVCP08|00|0|Viewtiful Joe: Red Hot Rumble
+86f5d3dcdbb5b6bf0f97f5e06e1335ed|G8FE8P|00|0|Virtua Quest
+6b3e9ad3a312c425844177c0317cb1b3|GVSJ8P|00|0|VIRTUA STRIKER 3 ver.2002
+2d8c6f6877e838e49352a2e69ac22dab|GVSP8P|00|0|Virtua Striker 3 Ver. 2002
+eaaecc530771a5fd37aa615dafdb834c|GVSE8P|00|0|Virtua Striker 2002
+5a8eb5e15b92a9704dd11f54bbddf2aa|GWGJ4F|00|0|Wai Wai Golf
+dfe55017cc9a76da5863382f4f48de3f|GWLP6L|00|0|Wallace & Gromit : Project Zoo
+3cf7f689e268ae505f36545bf1dd5e14|GWLE6L|00|0|Wallace & Gromit in Project Zoo
+5843838d805a05e547bddcfc83b59239|GWLX6L|00|0|Wallace & Gromit in Project Zoo
+556075718d1b65fe04a9386722fcec8a|GZWE01|00|0|Wario Ware Inc.: Mega Party Game$!
+3446c699c1b20b72988b81f6c6d2e225|GZWP01|00|0|Wario Ware Inc.: Mega Party Game$!
+6d8785d3212d7f51a225e80500a1f5eb|GWWE01|00|0|Wario World
+33483304b7f190ddad9581bc271f6ce0|GWWJ01|00|0|Wario World
+8ce6a4ef8866b51424078b7257ef9014|GWWP01|00|0|Wario World
+7b5c92f41c487f14fdb5a5fbabfe73a9|GBNJC0|00|0|Warrior Blade: Rastan vs. Barbarian
+a34dd206c49f78056b1a4fd6a9854752|GWRJ01|00|0|Wave Race: Blue Storm
+7b1ee77bb2f8ac5dbe9f000cbc6db5fa|GWRP01|00|0|Wave Race: Blue Storm
+dff711fc30af8010da68502e62e03827|GWRE01|00|0|Wave Race: Blue Storm
+fb9ad38f2b197375456dc33c3530ad17|GWUE7D|00|0|Whirl Tour
+b3c232928b149c83daa0e7a030e98f97|GWUP7D|00|0|Whirl Tour
+0d256b70d7223dd1608f3706169631a4|GWHE41|00|0|Winnie The Pooh Rumbly Tumbly Adventures
+6eb08cd7bacdcdba5a44cf44a1255b88|GWHP41|00|0|Winnie the Pooh's Rumbly Tumbly Adventure
+db339f4d36b698e0c18de99a91c0c165|GW6JEM|00|0|Winning Eleven 6 Final Evolution
+49c8c1933e1039111cb55980b8c76f09|GWDP6S|00|0|World Racing
+9f8d36a47cbb18ee3c322402ce24cb89|GW8E52|01|0|World Series of Poker
+48b3b483bada75b9527cdaf7ef44c37f|GWMP8P|00|0|Worms 3D
+b13cf3eb32fa0561593be6383c841b3a|GWME51|00|0|Worms 3D
+a6d3764b27767cc74efdf40582ede258|GWBP41|00|0|Worms Blast
+6c310462e4dcbc74717beaa5f13384d0|GWBE41|00|0|Worms Blast
+925956b9633047c34dc04e74c63f052a|GWQE52|00|0|Wreckless: The Yakuza Missions
+6f9aeab14c90bb0dc26207b938ca3636|GWQP52|00|0|Wreckless: The Yakuza Missions
+b52269da25e94e6f74bff7d49093852e|GWTEA4|00|0|WTA Tour Tennis
+a5149505a6929d0f4879eb2905ce9f00|GCHP78|00|0|WWE Crush Hour
+df519bfd14bee790fe2d644a0a963507|GCHE78|00|0|WWE Crush Hour
+509b1a90c4ba801ad609f957cbe03e64|GWPE78|00|0|WWE Day of Reckoning
+18ee1317099ae3d1164278e8b17f6569|GWPP78|00|0|WWE Day of Reckoning
+fac766a3bb0ebf32a200907d41e3ff8f|GW2E78|00|0|WWE Day of Reckoning 2
+4aba987ccdc00115e01c91ef5ea71bbc|GW2P78|00|0|WWE Day of Reckoning 2
+b7badf498f504a4b78c59d96d29b12a0|GW3E78|00|0|WWE WrestleMania X8
+8d45ee6b24f6dfc1f536a6b6a1c3def3|GW3P78|00|0|WWE Wrestlemania X8
+edc6b6274960219acf546376dca90862|GW9P78|00|0|WWE WrestleMania XIX
+c13c47a5ed24a675545c99a15e44529d|GW9E78|00|0|WWE WrestleMania XIX
+f783fdecb6ddded2924c837efbf451de|GWVE52|00|0|X2: Wolverine's Revenge
+bc2c66b5899a505d7990c9e9e5013ae7|GWVX52|00|0|X-Men 2 : Wolverine's Revenge
+30dfce9be9ba41aad0e0d81a129f9900|GWVP52|00|0|X-Men 2: Wolverine's Revenge
+dd484633b421626a29407396569803d7|GXLE52|00|0|X-Men Legends
+8d1bf694987c027a1296d2705804ac86|GXLX52|00|0|X-Men Legends
+2510e752f87fabafd4a44545a53849e7|GXLP52|00|0|X-Men Legends
+cc501af1590a1b4f5ed3675c2c664f40|GX2D52|00|0|X-Men Legends II: Rise of Apocalypse
+cb3b79be2326e322e77edbdf30e602f8|GX2S52|00|0|X-Men Legends II: Rise of Apocalypse
+c03a70c1bf6fe241b5d8f73248875331|GX2P52|00|0|X-Men Legends II: Rise of Apocalypse
+b7b01496bf643bd150ce05e6a4786317|GX2E52|00|0|X-Men Legends II: Rise of Apocalypse
+2dd9f6eb4d85ba50860e0dac2b3a8c89|GXMP52|00|0|X-Men: Next Dimension
+a8da08418ceb0f94ae4b3eb5083d211c|GXME52|00|0|X-Men: Next Dimension
+f79a3dd407014b11f686c94f22b1b3e2|G3XE52|00|0|X-Men: The Official Game
+e512799807220136b0b76a5c65ddb594|G3XP52|00|0|X-Men: The Official Game
+300f65a027f731c99fbb1e15c4bda02a|G3EP51|00|0|XGIII: Extreme G Racing
+26c786ee5638c008c064bf5dd048489b|G3EE51|00|0|XGIII: Extreme G Racing
+eedaeaaf6e0ca8e3c1619a1c2e9417f6|GXAP51|00|0|XGRA Extreme G Racing Association
+ff403ffb95646f00da9edb4c09aeea58|GXAE51|00|0|XGRA Extreme G Racing Association
+08c39a364e5e34e9299c01fa1350c5be|GX3X41|00|0|XIII
+9d4c9624a295faa79aff14759514a030|GX3P41|00|0|XIII
+9a13a9f1d9e5b57c0934645a879499fc|GX3E41|00|0|XIII
+343dd929ea574503b558c0ac0c1c3886|GYFEA4|00|0|Yu-Gi-Oh! The Falsebound Kingdom
+acb058e216875277b32ff1a776174d79|GYFPA4|00|0|Yu-Gi-Oh! The Falsebound Kingdom
+13e2eaa0a0dd2b17104abe0c6d328224|GZPE70|00|0|Zapper - One Wicked Cricket!
+3e39468d1ed10c571ae0a0050dff0332|GZPP70|00|0|Zapper: One Wicked Cricket!
+b4f50c006078e08fd34580192fd0cb2d|GYKEB2|00|0|Zatch Bell! Mamodo Battles
+e78705f99f075c1e7f0bcba586952b70|GABEAF|00|0|Zatch Bell! Mamodo Fury
+41d77584a33d0af6bdd88fce48dba2b0|GZLJ01|00|0|Zelda no Densetsu: Kaze no Takuto
+adbbd707810cef91bd86413c25b39f19|D43J01|00|0|Zelda no Densetsu: Toki no Ocarina GC / Ura Zelda
+b130d78bb78cd63b501ddff210fde498|GZ2J01|00|0|Zelda no Densetsu: Twilight Princess
+3eec134fda353eff584085d4f883ff86|GZSE70|00|0|Zoids Battle Legends
+eed2160781bc5bcce40a75bba05370e3|GZHJDA|00|0|Zoids Full Metal Crash
+d80d1f2d0619b74e79368909c761efd6|GZOJDA|01|0|Zoids vs.
+7ec4e298d9393808a81ad9e1b6b9b50b|GZSJDA|00|0|Zoids VS. II
+71a5cdae1a6c69fc9d7067bee228caba|GZVJDA|00|0|Zoids vs. III
+817624b30e3b8b620dfe96ad28c085fb|GZCE51|00|0|ZooCube
+5649dcc570ce9f8e445bdbce0be7ef67|GZCP51|00|0|Zoocube
